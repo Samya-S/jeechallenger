@@ -350,7 +350,7 @@ header nav ul li a.active,
     justify-content: space-evenly;
     align-items: center;
 }
-.flex-container div
+.flex-container div{
     padding-bottom: 2%;
     flex-basis: 33%;
 }
