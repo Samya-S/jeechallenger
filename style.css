@@ -378,6 +378,9 @@ header nav ul li a.active,
 .flex-container img, .flex-container2 img{
     width: 100%;
 }
+@media screen and (max-width: 847px){
+    .Uimg{width: 100%;}
+}
 .flex-container div{
     width: 100%;
     padding-bottom: 2%;
