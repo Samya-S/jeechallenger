@@ -127,7 +127,7 @@ header nav ul li a.active,
     }
     .centered2{
         font-size: 150%;
-        top: 40%; left: 50%; transform: translate(-50%, -50%);
+        top: 35%; left: 50%; transform: translate(-50%, -50%);
     }
 }
 @media screen and (max-width: 1140px){
@@ -212,7 +212,7 @@ header nav ul li a.active,
     }
     .centered2{
         font-size: 150%;
-        top: 40%; left: 50%; transform: translate(-50%, -50%);
+        top: 30%; left: 50%; transform: translate(-50%, -50%);
     }
 }
 @media screen and (min-width: 680px){
@@ -284,7 +284,7 @@ header nav ul li a.active,
     }
     .centered2{
         font-size: 120%;
-        top: 35%; left: 50%; transform: translate(-50%, -50%);
+        top: 25%; left: 50%; transform: translate(-50%, -50%);
     }
     .flex-container, .flex-container2{
         flex-direction: column;
@@ -316,7 +316,7 @@ header nav ul li a.active,
     .headingimg {padding-top: 80px;}
     .centered2{
         font-size: 100%;
-        top: 28%; left: 50%; transform: translate(-50%, -50%);
+        top: 19%; left: 50%; transform: translate(-50%, -50%);
     }
 }
 @media screen and (max-width: 361px){
@@ -331,7 +331,7 @@ header nav ul li a.active,
     }
     .centered2{
         font-size: 85%;
-        top: 26.5%; left: 50%; transform: translate(-50%, -50%);
+        top: 18%; left: 50%; transform: translate(-50%, -50%);
     }
 }
 @media screen and (max-width: 346px){
@@ -366,7 +366,7 @@ header nav ul li a.active,
     .headingimg {padding-top: 60px;}
     .centered2{
         font-size: 80%;
-        top: 21%; left: 50%; transform: translate(-50%, -50%);
+        top: 14.5%; left: 50%; transform: translate(-50%, -50%);
     }
 }
 .flex-container, .flex-container2{
