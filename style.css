@@ -444,7 +444,9 @@ a button{
 .button1{
     background-color: rgb(255, 0, 0);
     font-size: 90%;
-    padding: 10px;
+    padding: 7px;
+    padding-left: 4%;
+    padding-right: 4%;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     border-top-left-radius: 20px;
