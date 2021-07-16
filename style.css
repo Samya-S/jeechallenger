@@ -1,3 +1,9 @@
+.welcomeimg{
+    background: url(images/jc-coverbg.jpg) no-repeat center; 
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
 body{
     margin: 0;
     -webkit-touch-callout: none; /* iOS Safari */
@@ -119,14 +125,14 @@ header nav ul li a.active,
     .menu-toggle{
         display: none;
     }
-    .homecover{
+    /* .homecover{
         display:block;
         width: 100%;
         filter: brightness(85%);
     }
     .homecover-mobile{
        display:none;
-    }
+    } */
     .centered{
         font-size: 180%;
         top: 50%; left: 50%; transform: translate(-50%, -50%); 
@@ -205,13 +211,13 @@ header nav ul li a.active,
         padding-left: 20px;
         font-size: 22px;
     }
-    .homecover{
+    /* .homecover{
         display:none;
        }
     .homecover-mobile{
         display:block;
         width: 100%;
-    }
+    } */
     .centered{
         font-size: 150%;
         top: 70%; left: 50%; transform: translate(-50%, -70%); 
@@ -489,6 +495,12 @@ fieldset input, textarea{
     font-size: 18px;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+@media screen and (max-width: 700px){
+    fieldset input, textarea{
+        width: 80%;
+    }
+}
+
 .message{
     /* position: ; */
     animation-name: example;
@@ -503,11 +515,7 @@ fieldset input, textarea{
     75%  {color:rgb(0, 68, 255)}
     100% {color:rgb(255, 123, 0)}
   }
-@media screen and (max-width: 700px){
-    fieldset input, textarea{
-        width: 80%;
-    }
-}
+
 footer {
     text-align: center;
     bottom: 0;
