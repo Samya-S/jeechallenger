@@ -521,7 +521,9 @@ fieldset input, textarea{
     75%  {color:rgb(0, 68, 255)}
     100% {color:rgb(255, 123, 0)}
   }
-
+h3{
+    opacity: 1;
+}
 footer {
     text-align: center;
     bottom: 0;
