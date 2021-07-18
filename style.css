@@ -258,13 +258,13 @@ header nav ul li a.active,
         height: 100%;
     }
     .flex-container, .flex-container2{
-        flex-direction: row;
+        flex-wrap: nowrap;
     }
     .flex-container div p{
-        width: 25rem;
+        width: 100%;
     }
     .flex-container2 div p{
-        width: 37.5rem;
+        width: 100%;
     }
 }
 @media screen and (max-width: 680px){
@@ -305,6 +305,7 @@ header nav ul li a.active,
         top: 25%; left: 50%; transform: translate(-50%, -50%);
     }
     .flex-container, .flex-container2{
+        flex-wrap: wrap;
         flex-direction: column;
     }
     .flex-container div p{
@@ -387,9 +388,9 @@ header nav ul li a.active,
         top: 14.5%; left: 50%; transform: translate(-50%, -50%);
     }
 }
+
 .flex-container, .flex-container2{
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
 }
@@ -402,11 +403,13 @@ header nav ul li a.active,
 .flex-container div{
     width: 100%;
     padding-bottom: 2%;
+    padding: 1%;
     flex-basis: 33%;
 }
 .flex-container2 div{
     width: 100%;
     padding-bottom: 2%;
+    padding: 1%;
     flex-basis: 50%;
 }
 .container2{
@@ -436,7 +439,6 @@ h2{
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 h3{
-    opacity: 0.85;
     font-weight:normal;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -521,9 +523,6 @@ fieldset input, textarea{
     75%  {color:rgb(0, 68, 255)}
     100% {color:rgb(255, 123, 0)}
   }
-h3{
-    opacity: 1;
-}
 footer {
     text-align: center;
     bottom: 0;
