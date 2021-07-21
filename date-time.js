@@ -26,4 +26,4 @@ setInterval(() => {
     seconds = ("0" + seconds).slice(-2);
     var now = String(days[today.getDay()] + ' ' + months[today.getMonth()] + ' ' + dd + ', ' + today.getFullYear() + '  ' + hour + ':' + minutes + ':' + seconds + ' ' + amOrPm);
     document.getElementById("date&time").innerHTML = now;
-}, 1000)
+}, 500)
