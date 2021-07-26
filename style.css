@@ -509,6 +509,7 @@ fieldset{
 fieldset input, textarea{
     width: 60%;
     padding: 1%;
+    border: 0.5px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     border-top-left-radius: 15px;
