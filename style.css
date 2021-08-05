@@ -402,9 +402,24 @@ header nav ul li a.active,
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    gap: 1.5%;
 }
 .flex-container img, .flex-container2 img{
     width: 100%;
+}
+.block{
+    /* border: 1px solid black; */
+    /* border-top-right-radius: 20px; */
+    /* border-bottom-right-radius: 20px; */
+    /* border-top-left-radius: 20px; */
+    /* border-bottom-left-radius: 20px; */
+    /* background-color: skyblue; */
+    transition: transform 0.8s;
+}
+.block:hover{
+    transform: scale(1.1);
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
 }
 @media screen and (max-width: 847px){
     .Uimg{width: 100%;}
