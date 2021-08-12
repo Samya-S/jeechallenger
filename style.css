@@ -47,6 +47,7 @@ header{
     padding: 0 80px;
     box-sizing: border-box;
     height: 100px;
+    transition: top 0.3s;
 }
 header p{
     color: white;
