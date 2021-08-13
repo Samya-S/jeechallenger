@@ -25,7 +25,7 @@ body{
     -ms-user-select: none; /* Internet Explorer/Edge */
     user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
 }
-.typing-animation{
+/* .typing-animation{
     animation: type 3s steps(24);
     overflow: hidden;
     white-space: nowrap;
@@ -35,7 +35,7 @@ body{
 @keyframes type {
     0%{width: 0ch}    
     100%{width: 24ch;}
-}
+} */
 header{
     background: transparent;
     background-color: rgba(10, 10, 10, 0.8);
@@ -70,6 +70,7 @@ header nav ul li a:hover,
 header nav ul li a.active,
 .dropdown:hover, .dropdown .dropbtn:hover, .dropdown .dropbtn.active{
     color: rgb(243, 110, 110);
+    /* background-color: rgba(255, 255, 255, 0.548); */
 }
 .dropdown {
     float: inherit;
@@ -88,14 +89,33 @@ header nav ul li a.active,
     color: whitesmoke;
     padding-bottom: 20.5px;
 }
+.rotate{
+    transition: 0.30s;
+    -webkit-transition: 0.30s;
+    -moz-transition: 0.30s;
+    -ms-transition: 0.30s;
+    -o-transition: 0.30s;
+}
+.dropbtn:hover .rotate{
+    transition: 0.30s;
+    -webkit-transition: 0.30s;
+    -moz-transition: 0.30s;
+    -ms-transition: 0.30s;
+    -o-transition: 0.30s;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
 .dropdown-content{
     display: none;
     position: absolute;
     background-color: rgb(10, 10, 10, 0.8);
     z-index: 8.5;
-    border-top-right-radius: 20px;
+    /* border-top-right-radius: 20px; */
     border-bottom-right-radius: 20px;
-    border-top-left-radius: 20px;
+    /* border-top-left-radius: 20px; */
     border-bottom-left-radius: 20px;
 }
 .dropdown-content li a{
@@ -167,10 +187,7 @@ header nav ul li a.active,
     .menu-toggle{
         cursor: pointer;
         display: block;
-        float: left;  
-        -webkit-user-select: none; /* Safari */
-        -ms-user-select: none; /* IE 10 and IE 11 */
-        user-select: none; /* Standard syntax */      
+        float: left;     
     }
     .nav--open{
         left: 0;
@@ -564,10 +581,9 @@ footer {
     background-color: rgba(212, 212, 212, 0.26);
   }
   /*social-media-buttons*/
-  .fa {padding: 7px;border-radius: 50%;width: 17px;font-size: 15px;text-align: center;text-decoration: none;margin: 5px 2px;isolation: isolate;}
+  .fa {padding: 7px; border-radius: 50%; width: 17px; font-size: 15px; text-align: center; text-decoration: none; margin: 5px 2px; isolation: isolate;}
   .fa:hover {opacity: 0.7;}
   .fa-facebook {background: #3b5998;color: white;}
   .fa-twitter {background: #55acee;color: white;}
   .fa-youtube {background: #bb0000;color: white;}
-  .fa-instagram {background: #c00271;color: white;}
-  
+  .fa-instagram {background: #c00271;color: white;}  
