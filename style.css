@@ -1,14 +1,5 @@
-.welcomeimg{
-    background: url(images/jc-coverbg.jpg) no-repeat center; 
-    background-size: cover;
-    height: 550px;
-    position: relative;
-}
 .darkmode-toggle{
     z-index: 3;
-}
-.centered{
-    top: 50%; left: 50%; transform: translate(-50%, -50%); 
 }
 .thumbnail-img{
     border-top-right-radius: 20px;
@@ -252,7 +243,7 @@ header nav ul li a.active,
         width: 100%;
     } */
     .centered{
-        font-size: 150%;
+        font-size: 160%;
         /* top: 70%; left: 50%; transform: translate(-50%, -70%);  */
     }
     .centered2{
@@ -357,7 +348,7 @@ header nav ul li a.active,
         margin-top: 21px;
     }
     .centered{
-        font-size: 90%;
+        font-size: 130%;
     }
     .headingimg {padding-top: 80px;}
     .centered2{
@@ -392,7 +383,7 @@ header nav ul li a.active,
         margin-top: 28px;
     }
     .centered{
-        font-size: 80%;
+        font-size: 120%;
     }
 }
 @media screen and (max-width: 337px){
