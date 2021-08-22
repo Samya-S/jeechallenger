@@ -74,11 +74,10 @@ header nav ul li a.active,
     border: none;
     outline: none;
     color: inherit;
-    padding: 0px 13px;
+    padding: 0px;
     background-color: inherit;
     font-family: inherit;
     color: whitesmoke;
-    padding-bottom: 20.5px;
 }
 .rotate{
     transition: 0.30s;
@@ -160,6 +159,9 @@ header nav ul li a.active,
     .homecover-mobile{
        display:none;
     } */
+    .dropdown .dropbtn {
+        padding: 0px 13px 20.5px;
+    }
     .centered{
         font-size: 180%;
         /* top: 50%; left: 50%; transform: translate(-50%, -50%);  */
@@ -219,6 +221,9 @@ header nav ul li a.active,
     header nav ul{
         display: block;
         text-align: left;
+        /* padding-top: 35px; */
+    }
+    .ul-class{
         padding-top: 35px;
     }
     header nav ul li{
