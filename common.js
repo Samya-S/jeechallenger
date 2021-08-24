@@ -1,9 +1,9 @@
 function toggleNavOpen() {
-    document.querySelector("nav").classList.toggle("nav--open");
-  }
-  function toggleNavClose() {
-    document.querySelector("nav").classList.toggle("nav--open");
-  }
+  document.querySelector("nav").classList.toggle("nav--open");
+}
+function toggleNavClose() {
+  document.querySelector("nav").classList.toggle("nav--open");
+}
 
   
 document.onkeydown = function(e) {
