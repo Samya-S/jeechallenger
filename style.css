@@ -422,6 +422,12 @@ header nav ul li a.active,
 .flex-container img, .flex-container2 img{
     width: 100%;
 }
+.block p{
+    color: rgb(68, 68, 68);
+}
+.darkmode--activated .block p{
+    color: rgb(0, 0, 0);
+}
 @media screen and (min-width: 680px){
     .block{
         /* border: 1px solid black; */
@@ -431,6 +437,13 @@ header nav ul li a.active,
         /* border-bottom-left-radius: 20px; */
         /* background-color: skyblue; */
         transition: transform 0.8s;
+    }
+    .darkmode--activated .block:hover h2, .darkmode--activated .block:hover p{
+        color: white;
+    }
+    .darkmode--activated .block:not(:hover) h2, .darkmode--activated .block:not(:hover) p{
+        color: white;
+        isolation: isolate;
     }
     .block:hover{
         transform: scale(1.05);
