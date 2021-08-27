@@ -432,12 +432,6 @@ header nav ul li a.active,
         /* background-color: skyblue; */
         transition: transform 0.8s;
     }
-    .darkmode--activated .block:hover h2{
-        color: white;
-    }
-    /* .darkmode--activated .block h2{
-        color: white;
-    } */
     .block:hover{
         transform: scale(1.05);
         -ms-transform: scale(1.05); /* IE 9 */
