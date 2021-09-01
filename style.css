@@ -576,11 +576,11 @@ fieldset input, textarea{
   }
   
   @keyframes example {
-    0%   {color:rgb(255, 123, 0)}
-    25%  {color:rgb(57, 187, 238)}
-    50%  {color:rgba(5, 144, 0)}
-    75%  {color:rgb(0, 68, 255)}
-    100% {color:rgb(255, 123, 0)}
+    0%   {color:rgb(255, 38, 0)}
+    25%  {color:rgb(0, 68, 255)}
+    50%  {color:rgba(57, 187, 238)}
+    75%  {color:rgb(5, 144, 0)}
+    100% {color:rgb(255, 38, 0)}
   }
 footer {
     text-align: center;
