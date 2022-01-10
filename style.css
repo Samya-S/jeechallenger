@@ -422,14 +422,14 @@ header nav ul li a.active,
 .flex-container img, .flex-container2 img{
     width: 100%;
 }
-.block p{
+.block p, .block2 p{
     color: rgb(68, 68, 68);
 }
-.darkmode--activated .block p{
+.darkmode--activated .block p, .darkmode--activated .block2 p{
     color: rgb(0, 0, 0);
 }
 @media screen and (min-width: 680px){
-    .block{
+    .block, .block2{
         /* border: 1px solid black; */
         /* border-top-right-radius: 20px; */
         /* border-bottom-right-radius: 20px; */
@@ -438,10 +438,10 @@ header nav ul li a.active,
         /* background-color: skyblue; */
         transition: transform 0.8s;
     }
-    .darkmode--activated .block:hover h2, .darkmode--activated .block:hover p{
+    .darkmode--activated .block:hover h2, .darkmode--activated .block:hover p, .darkmode--activated .block2:hover h2, .darkmode--activated .block2:hover p{
         color: white;
     }
-    .darkmode--activated .block:not(:hover) h2, .darkmode--activated .block:not(:hover) p{
+    .darkmode--activated .block:not(:hover) h2, .darkmode--activated .block:not(:hover) p, .darkmode--activated .block2:not(:hover) h2, .darkmode--activated .block2:not(:hover) p{
         color: white;
         isolation: isolate;
     }
@@ -449,6 +449,11 @@ header nav ul li a.active,
         transform: scale(1.05);
         -ms-transform: scale(1.05); /* IE 9 */
         -webkit-transform: scale(1.05); /* Safari 3-8 */
+    }
+    .block2:hover{
+        transform: scale(1.03);
+        -ms-transform: scale(1.03); /* IE 9 */
+        -webkit-transform: scale(1.03); /* Safari 3-8 */
     }
 }
 @media screen and (max-width: 847px){
