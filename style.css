@@ -520,10 +520,10 @@ a button{
     padding: 7px;
     padding-left: 4%;
     padding-right: 4%;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20em;
+    border-bottom-right-radius: 20em;
+    border-top-left-radius: 20em;
+    border-bottom-left-radius: 20em;
     min-width: 60px;
     isolation: isolate;
 }
@@ -538,10 +538,10 @@ a button{
     padding-bottom: 1%;
     border: 0.5px solid rgb(255, 0, 0);
     color: rgb(255, 0, 0);
-    border-top-right-radius: 25px;
-    border-bottom-right-radius: 25px;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-top-right-radius: 50em;
+    border-bottom-right-radius: 50em;
+    border-top-left-radius: 50em;
+    border-bottom-left-radius: 50em;
     isolation: isolate;
 }
 .button2 a{
@@ -563,10 +563,10 @@ a button{
     padding-bottom: 1%;
     border: 0.5px solid #2e87ca;;
     color: #2e87ca;
-    border-top-right-radius: 25px;
-    border-bottom-right-radius: 25px;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-top-right-radius: 50em;
+    border-bottom-right-radius: 50em;
+    border-top-left-radius: 50em;
+    border-bottom-left-radius: 50em;
     isolation: isolate;
 }
 .button2_tele a{
