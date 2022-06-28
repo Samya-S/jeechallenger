@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@0;1&display=swap');
+
+html{
+    font-family: 'Jost', sans-serif;
+}
+
 .darkmode-toggle{
     z-index: 3;
 }
@@ -45,7 +51,7 @@ header p a{
     text-decoration: none;
 }
 nav{
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
     font-weight:normal;
     font-size: 150%;
 }
@@ -128,7 +134,7 @@ header nav ul li a.active,
         padding-left: 5%;
     }
     nav{
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
         float: right;
     }
     nav ul{
@@ -488,20 +494,20 @@ a{
     isolation: isolate;
 }*/
 h1{
-    font-family:'Times New Roman', Times, serif;
+    /* font-family:'Times New Roman', Times, serif; */
     text-align: center; 
     color: rgb(255, 0, 0);
     isolation: isolate;
 }
 h2{
     font-weight:normal;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
 }
 h3{
     font-weight:normal;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
 }
-body{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+/* body{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;} */
 button{
     border: none;
     border-top-right-radius: 20em;
@@ -591,7 +597,7 @@ fieldset input, textarea{
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     font-size: 18px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
 }
 @media screen and (max-width: 700px){
     fieldset input, textarea{
