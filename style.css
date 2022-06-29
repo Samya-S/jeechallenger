@@ -623,6 +623,32 @@ fieldset input, textarea{
 
 
 
+.telegram-float{
+    position:fixed;
+    z-index: 9;
+    width:50px;
+    height:fit-content;
+    top:45%;
+    left:0px;
+    background-color:rgb(255, 255, 255);
+    color:#2e87ca;
+    border-radius:15px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    text-align:center;
+    text-decoration: none;
+    padding: 5px;
+}
+.telegram-float i{
+    transform: translate(-11px, 0px);
+    /* margin: 0; */
+    padding: 0;
+    font-size: 40px;
+}
+.telegram-float p{
+    font-size: 20px;
+    margin: 0;
+}
 .contact-us-float{
     position:fixed;
     z-index: 9;
@@ -648,8 +674,12 @@ footer {
   }
   /*social-media-buttons*/
   .fa {padding: 7px; border-radius: 50%; width: 17px; font-size: 15px; text-align: center; text-decoration: none; margin: 5px 2px; isolation: isolate;}
-  .fa:hover {opacity: 0.7;}
+  /* .fa:hover {opacity: 0.7;} */
   .fa-facebook {background: #3b5998;color: white;}
+  .fa-facebook:hover {opacity: 0.7;}
   .fa-twitter {background: #55acee;color: white;}
+  .fa-twitter:hover {opacity: 0.7;}
   .fa-youtube {background: #bb0000;color: white;}
+  .fa-youtube:hover {opacity: 0.7;}
   .fa-instagram {background: #c00271;color: white;}  
+  .fa-instagram:hover {opacity: 0.7;}  
