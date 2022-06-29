@@ -638,6 +638,7 @@ fieldset input, textarea{
     text-align:center;
     text-decoration: none;
     padding: 5px;
+    box-shadow: 2px 2px 3px #999;
 }
 .telegram-float i{
     transform: translate(-11px, 0px);
