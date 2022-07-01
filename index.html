@@ -111,7 +111,7 @@
 <div id="myModal" class="modal">
 
   <!-- Modal content -->
-  <div class="modal-content">
+  <div class="modal-content" id="slide">
     <span class="close">&times;</span>
     <img src="images/flashingNew.gif" alt="" style="height: 50px; float: left;">
     <p style="font-size: 1.5em; font-family:cursive;">JEE Main - June 2022 Papers (Memory Based) are available at our official telegram channel. <br> Get it now.</p>
@@ -127,7 +127,7 @@
   .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    z-index: 9; /* Sit on top */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
@@ -151,7 +151,14 @@
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
+
+    left: 50%;
+    transform: translate(-50%, 0);
+    position: absolute;
+    -webkit-animation: slide 0.8s forwards;
+    animation: slide 0.8s forwards;
   }
+  
   @keyframes gradient {
     0% {
       background-position: 0% 50%;
@@ -162,6 +169,16 @@
     100% {
       background-position: 0% 50%;
     }
+  }
+
+  @-webkit-keyframes slide {
+      0% { top: -150px; opacity: 0; }
+      100% { top: 0; opacity: 1;}
+  }
+
+  @keyframes slide {
+      0% { top: -150px; opacity: 0; }
+      100% { top: 0; opacity: 1;}
   }
 
   .button2_tele_modal{
@@ -242,12 +259,12 @@
 
 
 
-  if(sessionStorage.getItem('showAlert') != "false"){
-        modal.style.display = "block";
-        sessionStorage.setItem('showAlert', "false");
-    }
+  // if(sessionStorage.getItem('showAlert') != "false"){
+  //       modal.style.display = "block";
+  //       sessionStorage.setItem('showAlert', "false");
+  //   }
 
-  // modal.style.display = "block";
+  modal.style.display = "block";
 
 </script>
 
