@@ -103,6 +103,160 @@
     </div>
 
 
+
+<!-- Trigger/Open The Modal -->
+<!-- <button id="myBtn">Open Modal</button> -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <img src="images/flashingNew.gif" alt="" style="height: 50px; float: left;">
+    <p style="font-size: 1.5em; font-family:cursive;">JEE Main - June 2022 Papers (Memory Based) are available at our official telegram channel. <br> Get it now.</p>
+    <a href="https://t.me/jeechallenger/239" target="_blank"><button class="button2_tele_modal" style="font-size: 20px;">Click here</button></a>
+    <p style="padding-bottom: 0px;"></p>
+  </div>
+
+</div>
+
+
+<style>
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 10% auto; /* 15% from the top and centered */
+    padding: 25px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    max-width: 1000px;
+
+    border-radius: 2em;
+
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+  }
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  .button2_tele_modal{
+      background-color: transparent;
+      font-size: 100%;
+      padding-left: 4%;
+      padding-right: 4%;
+      padding-top: 1%;
+      padding-bottom: 1%;
+      border: 0.5px solid #ffffff;
+      color: #ffffff;
+      border-top-right-radius: 50em;
+      border-bottom-right-radius: 50em;
+      border-top-left-radius: 50em;
+      border-bottom-left-radius: 50em;
+      isolation: isolate;
+  }
+  .button2_tele_modal a{
+      text-decoration: none;
+      color: #2e87ca;;
+  }
+  .button2_tele_modal:hover{background-color: #000000; color: rgb(255, 255, 255); border: 0.5px solid #000000;}
+  .button2_tele_modal a:hover{
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+</style>
+
+
+<script>
+  // Get the modal
+  var modal = document.getElementById("myModal");
+  
+  // Get the button that opens the modal
+  // var btn = document.getElementById("myBtn");
+  
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+  
+  // When the user clicks on the button, open the modal
+  // btn.onclick = function() {
+  //   modal.style.display = "block";
+  // }
+  
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+  
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+
+
+  //
+  // setTimeout(showModal,0);
+  // function showModal(){
+  //   modal.style.display = "block";
+  // }
+
+
+
+  if(sessionStorage.getItem('showAlert') != "false"){
+        modal.style.display = "block";
+        sessionStorage.setItem('showAlert', "false");
+    }
+
+  // modal.style.display = "block";
+
+</script>
+
+
+
+
+
+
+
     <div style="background-color: rgba(212, 212, 212, 0.26); padding: 2%;">
       <p style="font-family: 'Roboto', sans-serif; display: flex; justify-content: center; align-items: center;">
         <img src="images/jcicon.jpg" alt="" srcset="" style="border-radius: 50%; width: 10%;">
