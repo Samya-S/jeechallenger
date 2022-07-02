@@ -111,7 +111,7 @@
 <div id="myModal" class="modal">
 
   <!-- Modal content -->
-  <div class="modal-content" id="slide">
+  <div class="modal-content gradient-animation" id="slide">
     <span class="close">&times;</span>
     <img src="images/flashingNew.gif" alt="" style="height: 50px; float: left;">
     <p style="font-size: 1.5em; font-family:cursive;">JEE Main - June 2022 Papers (Memory Based) are available at our official telegram channel. <br> Get it now.</p>
@@ -148,27 +148,12 @@
 
     border-radius: 2em;
 
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
 
     left: 50%;
     transform: translate(-50%, 0);
     position: absolute;
     -webkit-animation: slide 0.8s forwards;
     animation: slide 0.8s forwards;
-  }
-  
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
   }
 
   @-webkit-keyframes slide {
@@ -274,10 +259,10 @@
 
 
 
-    <div style="background-color: rgba(212, 212, 212, 0.26); padding: 2%;">
-      <p style="font-family: 'Roboto', sans-serif; display: flex; justify-content: center; align-items: center;">
-        <img src="images/jcicon.jpg" alt="" srcset="" style="border-radius: 50%; width: 10%;">
-        <b style="font-size: 40px; text-align: center; padding: 2%;">JEE Challenger</b>
+    <div style="background-color: rgba(212, 212, 212, 0.26); padding: 5%;">
+      <p class="flex-container2" style="font-family: 'Roboto', sans-serif; display: flex; justify-content: center; align-items: center; margin: 0; padding-bottom: 2em;">
+        <img src="images/jcicon.jpg" alt="" srcset="" style="border-radius: 50%; max-width: 180px;">
+        <b style="font-size: 40px; text-align: center;">JEE Challenger</b>
       </p>
 
       <a href="https://t.me/jeechallenger" target="_blank"><button class="button2_tele" style="font-size: 20px;">Join us on Telegram</button></a>
