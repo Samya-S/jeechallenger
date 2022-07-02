@@ -510,10 +510,7 @@ h3{
 /* body{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;} */
 button{
     border: none;
-    border-top-right-radius: 20em;
-    border-bottom-right-radius: 20em;
-    border-top-left-radius: 20em;
-    border-bottom-left-radius: 20em;
+    border-radius: 20em;
     cursor: pointer;
 }   
 a button{
@@ -526,10 +523,7 @@ a button{
     padding: 7px;
     padding-left: 4%;
     padding-right: 4%;
-    border-top-right-radius: 20em;
-    border-bottom-right-radius: 20em;
-    border-top-left-radius: 20em;
-    border-bottom-left-radius: 20em;
+    border-radius: 20em;
     min-width: 60px;
     isolation: isolate;
 }
@@ -544,10 +538,7 @@ a button{
     padding-bottom: 1%;
     border: 0.5px solid rgb(255, 0, 0);
     color: rgb(255, 0, 0);
-    border-top-right-radius: 50em;
-    border-bottom-right-radius: 50em;
-    border-top-left-radius: 50em;
-    border-bottom-left-radius: 50em;
+    border-radius: 50em;
     isolation: isolate;
 }
 .button2 a{
@@ -569,10 +560,7 @@ a button{
     padding-bottom: 1%;
     border: 0.5px solid #2e87ca;
     color: #2e87ca;
-    border-top-right-radius: 50em;
-    border-bottom-right-radius: 50em;
-    border-top-left-radius: 50em;
-    border-bottom-left-radius: 50em;
+    border-radius: 50em;
     isolation: isolate;
 }
 .button2_tele a{
@@ -592,10 +580,7 @@ fieldset input, textarea{
     width: 60%;
     padding: 1%;
     border: 0.5px solid black;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-top-left-radius: 15px;
-    border-bottom-left-radius: 15px;
+    border-radius: 15px;
     font-size: 18px;
     font-family: 'Jost', sans-serif;
     /* font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
