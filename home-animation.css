@@ -84,26 +84,27 @@
 /* .centered h4 #name span {
     animation: slidein 7s;
 } */
-@keyframes showup {
-    0% {opacity:0;}
-    20% {opacity:1;}
-    80% {opacity:1;}
-    100% {opacity:1;}
+@media screen and (min-width: 900px){
+    @keyframes showup {
+        0% {opacity:0;}
+        20% {opacity:1;}
+        80% {opacity:1;}
+        100% {opacity:1;}
+    }
+    /* @keyframes slidein {
+        0% { margin-left:-800px; }
+        20% { margin-left:-800px; }
+        35% { margin-left:0px; }
+        100% { margin-left:0px; }
+    } */
+    @keyframes reveal1 {
+        0% {opacity:0;width:0px;}
+        20% {opacity:1;width:0px;}
+        30% {width:152.5px;}
+        80% {opacity:1;}
+        100% {opacity:1;width:152.5px;}
+    }
 }
-/* @keyframes slidein {
-    0% { margin-left:-800px; }
-    20% { margin-left:-800px; }
-    35% { margin-left:0px; }
-    100% { margin-left:0px; }
-} */
-@keyframes reveal1 {
-    0% {opacity:0;width:0px;}
-    20% {opacity:1;width:0px;}
-    30% {width:152.5px;}
-    80% {opacity:1;}
-    100% {opacity:1;width:152.5px;}
-}
-
 
 .centered #start-line{
     background: 50% 100% / 50% 50% no-repeat radial-gradient(ellipse at bottom, rgb(255, 50, 0), transparent, transparent);
@@ -114,24 +115,25 @@
     animation: reveal 1s ease-out 1 both /*ease-in-out forwards 200ms*/, glow 2500ms linear infinite 2000ms;
     display: inline-block;
 }
-@keyframes reveal {
-    from{
-        opacity: 0;
-        transform: perspective(500px) translate3d(-35px, -40px, -150px) rotate3d(1, -1, 0, 35deg);
-    }
-    to{
-        opacity: 1;
-        transform: perspective(500px) translate3d(0, 0, 0);
-    }
-}
 @media screen and (min-width: 900px){
+    @keyframes reveal {
+        from{
+            opacity: 0;
+            transform: perspective(500px) translate3d(-35px, -40px, -150px) rotate3d(1, -1, 0, 35deg);
+        }
+        to{
+            opacity: 1;
+            transform: perspective(500px) translate3d(0, 0, 0);
+        }
+    }
+
     @keyframes glow {
         40% {
         text-shadow: 0 0 8px rgb(255, 50, 0);
         }
     }
 }
-@media screen and (max-width: 900px){
+/* @media screen and (max-width: 900px){
     @keyframes glow {
         40% {
         text-shadow: 0 0 8px rgb(0, 0, 0);
@@ -140,4 +142,4 @@
     #name, #copy{
         font-weight: 500;
     }
-}
+} */
