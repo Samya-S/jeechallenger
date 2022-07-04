@@ -146,7 +146,7 @@ header nav ul li a.active,
         list-style: none;
     }
     nav ul li a{
-        height: 50px;
+        /* height: 50px; dropdown individual heights*/ 
         line-height: 120px;
         padding: 0 20px;
         text-decoration: none;
