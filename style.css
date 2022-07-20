@@ -512,6 +512,7 @@ button{
     border: none;
     border-radius: 20em;
     cursor: pointer;
+    font-family: 'Jost', sans-serif;
 }   
 a button{
     text-decoration: none;
