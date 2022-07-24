@@ -31,3 +31,23 @@ if (prevScrollpos > currentScrollPos) {
 }
 prevScrollpos = currentScrollPos;
 }
+
+
+
+//open contact form
+
+function openContactForm() {
+  var ContactFormID = document.getElementById("myContactForm");
+  if(ContactFormID.style.display == "block"){
+    ContactFormID.style.display = "none";
+  }
+  else{
+    ContactFormID.style.display = "block";
+  }
+}
+
+window.onclick = function(event) {
+  if (event.target == ContactFormID) {
+    ContactFormID.style.display = "none";
+  }
+}
