@@ -666,6 +666,23 @@ fieldset input, textarea{
     font-size: 25px;
     box-shadow: 2px 2px 3px #999;
 }
+.ContactForm{
+    display: none; 
+    position: fixed;
+    z-index: 5;
+    width:inherit;
+    /* max-width: fit-content; */
+    height:inherit;
+    /* max-height: fit-content; */
+    bottom:80px;
+    left:40px;
+    
+}
+.ContactForm iframe{
+    width: 500px;
+    height: 700px;
+    border-radius: 20px;
+}
 
 footer {
     text-align: center;
