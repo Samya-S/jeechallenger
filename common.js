@@ -51,3 +51,11 @@ window.onclick = function(event) {
     ContactFormID.style.display = "none";
   }
 }
+
+
+
+// redirect from GitHub pages to Heroku app
+
+if (window.location == "https://samya-s.github.io/jeechallenger/") {
+  window.location.href = 'https://jeechallenger.herokuapp.com/'; 
+}
