@@ -10,4 +10,4 @@ RewriteRule ^(.*)$ $1.html [NC,L]
 # RewriteCond %{REQUEST_URI} !\.(pdf)$
 # RewriteRule ^(.*)$ https://jeechallenger.herokuapp.com/$1 [R=301,L]
 
-# RewriteRule ^.*\.pdf$ /landing-page.php [R=301,L]
+RewriteRule ^.*\.pdf$ https://samya-s.github.io/jeechallenger/$1 [R=301,L]
