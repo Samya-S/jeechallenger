@@ -13,7 +13,7 @@
 <body style="text-align: center;" class="headingimg" oncontextmenu="return false;">
 
     <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
-    <script type="text/javascript" src="../dark-mode.js"></script>
+    <script type="text/javascript" src="../common/dark-mode.js"></script>
 
     <header id="navbar">
         <div class="menu-toggle">
