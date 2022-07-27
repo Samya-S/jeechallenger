@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="eJQ_FkMeExR2nx8-heo_SbYFUYcrIijnIqdyCNARH6k" />
-    <title>JEE Advanced | JEE Challenger</title>
+    <title>Apni Kaksha | JEE Challenger</title>
     <link rel="icon" href="../images/jcicon.jpg" type="image/gif">
     <script type="text/javascript" src="../common.js"></script>
 </head>
@@ -49,8 +49,8 @@
                 <button class="dropbtn">Officials links<i class="rotate fa fa-caret-down"></i></button>
                 <ul>
                   <div class="dropdown-content">
-                    <li><a href="jee-main">JEE Main</a></li>
-                    <li><a href="#" class="active">JEE Advanced</a></li>                
+                    <li><a href="../official-links/jee-main">JEE Main</a></li>
+                    <li><a href="../official-links/jee-advanced">JEE Advanced</a></li>                
                   </div>
                 </ul>
               </div>
@@ -60,9 +60,9 @@
                 <button class="dropbtn">More platforms<i class="rotate fa fa-caret-down"></i></button>
                 <ul>
                   <div class="dropdown-content">
-                    <li><a href="../more-platforms/apnikaksha">Apni Kaksha</a></li>
-                    <li><a href="../more-platforms/physicswallah">Physics Wallah</a></li>
-                    <li><a href="../more-platforms/unacademy">Unacademy</a></li>
+                    <li><a href="#" class="active">Apni Kaksha</a></li>
+                    <li><a href="physicswallah">Physics Wallah</a></li>
+                    <li><a href="unacademy">Unacademy</a></li>
                   </div>
                 </ul>
               </div>
@@ -73,23 +73,17 @@
     </header>
 
 
-    <div style="padding: 2%; background-color: rgba(212, 212, 212, 0.26);">
-      <h1 class="message">Link to JEE Advanced Official Website</h1><a href="https://jeeadv.ac.in/" target="_blank"><button class="button2">Go</button></a>
-    </div>
+    <img class="Uimg" style="width: 100%;" src="../images/apnikaksha.jpg" alt="" srcset="">
 
     <div style="padding: 2%;">
-      <h1>More Official links</h1>
       <div class="flex-container">
-        <div class="block"><h2>Past Question Papers and Final Answer Keys</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/archive.html" target="_blank"><button class="button1">Go</button></a></div>
-        <div class="block"><h2>Syllabus</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/syllabus/combined-syllabus.pdf" target="_blank"><button class="button1">Go</button></a></div>
-        <div class="block"><h2>Opening and closing ranks of previous years</h2><h3><p>Link to official website</p></h3><a href="http://jeeadv.ac.in/openclose.php" target="_blank"><button class="button1">Go</button></a></div>
+        <div class="block"><h2>YouTube Channel</h2><img class="thumbnail-img" src="../images/apnikaksha-ytchannel.png" alt=""><p><a href="https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg/" target="_blank"><button class="button1">Click Here</button></a></p></div>
+        <div class="block"><h2>Official Website</h2><img class="thumbnail-img" src="../images/apnikaksha-website.png" alt=""><p><a href="https://www.apnikaksha.net/" target="_blank"><button class="button1">Click Here</button></a></p></div>
+        <div class="block"><h2>Mobile App</h2><img class="thumbnail-img" src="../images/apnikaksha-app.png" alt=""><p><a href="https://play.google.com/store/apps/details?id=com.apni.kaksha" target="_blank"><button class="button1">Click Here</button></a></p></div>
       </div>
-      <br>
-      <div class="block2"><h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;">&nbsp; Revised Syllabus to be followed from JEE (Advanced) 2023</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/misc/jee-advanced-2023-syllabus.pdf" target="_blank"><button class="button1">Go</button></a></div>
     </div>
+
     
-
-
 
     <a href="https://t.me/jeechallenger" target="_blank" class="telegram-float">
       <p>Join us on</p>
@@ -100,20 +94,8 @@
     <a href="https://jeechallenger.godaddysites.com/contact-us" target="_blank" class="contact-us-float">
       <i class="fa fa-phone"></i>
     </a>
+    
+    <?php include("../common/footer.php"); ?>
 
-    <footer>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <a href="https://www.facebook.com/SamyaSaha08" target="_blank" class="fa fa-facebook"></a>
-        <a href="https://www.twitter.com/SamyaSaha08" target="_blank" class="fa fa-twitter"></a>
-        <a href="https://www.youtube.com/channel/UCDGNdFdN619aOTVkOht6YvA?sub_confirmation=1" target="_blank" class="fa fa-youtube"></a>
-        <a href="https://www.instagram.com/SamyaSaha08" target="_blank" class="fa fa-instagram"></a><br>
-        Copyright &copy 2020-22 <b><i>Samya Saha</i></b><br>- All Rights Reserved.<br><br>
-        <h6>Source code available on Github: <a href="https://github.com/Samya-S/jeechallenger" target="_blank" style="text-decoration: none; isolation: unset;">Click here</a></h6>
-        <br>
-        <div>
-          <h3 style="font-weight: normal; font-family: monospace;"><p id="date&time"></p></h3>
-          <script src="../date-time.js"></script>
-        </div>
-    </footer>
 </body>
 </html>
