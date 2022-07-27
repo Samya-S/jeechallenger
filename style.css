@@ -669,7 +669,7 @@ fieldset input, textarea{
     100% { top: 0; opacity: 1;}
 }
 
-.button2_tele_modal{
+.button2_modal{
     background-color: transparent;
     font-size: 100%;
     padding-left: 4%;
@@ -682,18 +682,18 @@ fieldset input, textarea{
     isolation: isolate;
 }
 
-.button2_tele_modal a{
+.button2_modal a{
     text-decoration: none;
     color: #2e87ca;;
 }
 
-.button2_tele_modal:hover{
+.button2_modal:hover{
     background-color: #000000; 
     color: rgb(255, 255, 255); 
     border: 0.5px solid #000000;
 }
 
-.button2_tele_modal a:hover{
+.button2_modal a:hover{
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
