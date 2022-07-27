@@ -59,3 +59,16 @@ window.onclick = function(event) {
 // if (window.location == "https://samya-s.github.io/jeechallenger/") {
 //   window.location.href = 'https://jeechallenger.herokuapp.com/'; 
 // }
+
+
+
+
+
+//htaccess
+
+// # RewriteCond %{REQUEST_URI} !\.(pdf)$
+// # RewriteCond %{HTTP_HOST} ^https://samya-s.github.io/jeechallenger$ [NC]
+// # RewriteRule ^(.*)$ https://jeechallenger.herokuapp.com/$1 [R=301,L]
+
+// # RewriteCond %{HTTP_HOST} ^https://jeechallenger.herokuapp.com$ [NC]
+// # RewriteRule ^(.*\.pdf)$ https://samya-s.github.io/jeechallenger/$1 [R=301,L]
