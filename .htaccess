@@ -8,7 +8,7 @@ RewriteRule ^(.*)$ $1.html [NC,L]
 
 
 # RewriteCond %{REQUEST_URI} !\.(pdf)$
-# RewriteRule ^(.*)$ https://jeechallenger.herokuapp.com/$1 [R=301,L]
+RewriteRule ^(.*)$ https://jeechallenger.herokuapp.com/$1 [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^https://jeechallenger.herokuapp.com$ [NC]
-RewriteRule ^.*\.pdf$ https://samya-s.github.io/jeechallenger/$1 [R=301,L]
+# RewriteCond %{HTTP_HOST} ^https://jeechallenger.herokuapp.com$ [NC]
+# RewriteRule ^(.*\.pdf)$ https://samya-s.github.io/jeechallenger/$1 [R=301,L]
