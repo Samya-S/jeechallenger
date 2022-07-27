@@ -21,7 +21,7 @@
         <br>
         <div>
           <h3 style="font-weight: normal; font-family: monospace;"><p id="date&time"></p></h3>
-          <script src="date-time.js"></script>
+          <script src="https://jeechallenger.herokuapp.com/common/date-time.js"></script>
         </div>
     </footer>
 
