@@ -674,6 +674,9 @@ fieldset input, textarea{
     font-size: 25px;
     box-shadow: 2px 2px 3px #999;
 }
+.contact-us-float i{
+    font-size: 25px;
+}
 .ContactForm{
     display: none; 
     position: fixed;
