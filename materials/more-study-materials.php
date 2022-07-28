@@ -201,11 +201,11 @@
     </a>
   
   
-    <a href="https://jeechallenger.godaddysites.com/contact-us" target="_blank" class="contact-us-float">
-      <i class="fa fa-phone"></i>
-    </a>
+    <?php include("../common/contact-us-button.php"); ?>
+
 
     <?php include("../common/footer.php"); ?>
+
 
 </body>
 </html>
