@@ -120,7 +120,7 @@
     <div style="padding: 2%; background-image: url('../images/tg-bg.jpg');">
       <h1>Arihant</h1>
       <h2>Chapter wise solved previous 20 years' JEE  Main papers</h2>    
-      <a href="https://t.me/jeechallenger/180" target="_blank"><button class="button2_tele" style="font-size: 20px">Get it now</button></a>
+      <a href="https://t.me/jeechallenger/372" target="_blank"><button class="button2_tele" style="font-size: 20px">Get it now</button></a>
     </div>
 
 
