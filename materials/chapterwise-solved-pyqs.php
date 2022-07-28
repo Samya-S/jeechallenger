@@ -99,7 +99,7 @@
       <h2>*Get chapter wise solved previous 43 years' JEE papers published by Arihant and Disha publication from our telegram channel</h2>
 
       <p style="font-family: 'Roboto', sans-serif; display: flex; justify-content: center; align-items: center;">
-        <img src="../images/jcicon.jpg" alt="" srcset="" style="border-radius: 50%; width: 5%;">
+        <img src="../images/jcicon.jpg" alt="" srcset="" style="border-radius: 50%; max-width: 150px;">
         <b style="font-size: 30px; text-align: center; padding: 2%;">JEE Challenger</b>
       </p>
       
@@ -118,9 +118,9 @@
 
 
     <div style="padding: 2%; background-image: url('../images/tg-bg.jpg');">
-      <h1>Arihant</h1>
-      <h2>Chapter wise solved previous 20 years' JEE  Main papers</h2>    
-      <a href="https://t.me/jeechallenger/372" target="_blank"><button class="button2_tele" style="font-size: 20px">Get it now</button></a>
+      <h2>Chapter wise solved previous 20 years' JEE  Main papers published by Arihant and Disha publication</h2>    
+      <a href="https://t.me/jeechallenger/372" target="_blank" style="padding-right: 25px;"><button class="button2_tele" style="font-size: 20px">Arihant</button></a>
+      <a href="https://t.me/jeechallenger/377" target="_blank"><button class="button2_tele" style="font-size: 20px;">Disha</button></a>
     </div>
 
 
