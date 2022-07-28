@@ -671,7 +671,7 @@ fieldset input, textarea{
     color:rgb(0, 0, 0);
     border-radius:50px;
     text-align:center;
-    font-size: 25px;
+    /* font-size: 25px; */
     box-shadow: 2px 2px 3px #999;
 }
 .contact-us-float i{
