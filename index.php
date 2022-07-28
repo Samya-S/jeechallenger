@@ -268,19 +268,9 @@
   </a>
 
 
-  <a href="https://jeechallenger.godaddysites.com/contact-us" target="_blank" class="contact-us-float">
-    <i class="fa fa-phone"></i>
-  </a>
 
+  <?php include("common/contact-us-button.php"); ?>
 
-  <!-- <button class="contact-us-float" onclick="openContactForm()"> -->
-    <!-- <i class="fa fa-phone"></i> -->
-  <!-- </button> -->
-
-  <!-- <div id="myContactForm" class="ContactForm">
-    &times;-->
-    <!-- <iframe src="https://jeechallenger.herokuapp.com/php/iframe.php?url=https://jeechallenger.godaddysites.com/contact-us" frameborder="0"></iframe> -->
-  <!-- </div>  -->
 
   <?php include("common/footer.php"); ?>
 

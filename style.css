@@ -660,37 +660,3 @@ fieldset input, textarea{
     font-size: 20px;
     margin: 0;
 }
-.contact-us-float{
-    position:fixed;
-    z-index: 5;
-    width:50px;
-    height:50px;
-    bottom:40px;
-    left:40px;
-    background-color:rgb(255, 255, 255);
-    color:rgb(0, 0, 0);
-    border-radius:50px;
-    text-align:center;
-    /* font-size: 25px; */
-    box-shadow: 2px 2px 3px #999;
-}
-.contact-us-float i{
-    font-size: 25px;
-}
-.ContactForm{
-    display: none; 
-    position: fixed;
-    z-index: 5;
-    width:inherit;
-    /* max-width: fit-content; */
-    height:inherit;
-    /* max-height: fit-content; */
-    bottom:80px;
-    left:40px;
-    
-}
-.ContactForm iframe{
-    width: 500px;
-    height: 700px;
-    border-radius: 20px;
-}
