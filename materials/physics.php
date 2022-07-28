@@ -20,7 +20,7 @@
           <button class="NavOpenButton" onclick="toggleNavOpen()"><i class="fa fa-bars NavOpenButton" aria-hidden="true"></i></button>
         </div>
         <p>
-          <a href="https://samya-s.github.io/jeechallenger/">
+          <a href="../index">
             <b>JEE Challenger</b>
           </a>
         </p>
@@ -29,7 +29,7 @@
             <button class="NavCloseButton" onclick="toggleNavClose()">&times;</button>
           </div>
           <ul class="ul-class">
-            <li><a href="https://samya-s.github.io/jeechallenger/"><b>Home</b></a></li>
+            <li><a href="../index"><b>Home</b></a></li>
             <li>
               <div class="dropdown">
                 <button class="dropbtn">Materials<i class="rotate fa fa-caret-down"></i></button>
