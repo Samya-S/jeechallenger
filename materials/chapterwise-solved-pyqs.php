@@ -118,7 +118,7 @@
 
 
     <div style="padding: 2%; background-image: url('../images/tg-bg.jpg');">
-      <h1>JEE  Main papers</h1>
+      <h1>JEE Main papers</h1>
       <h2>Chapter wise solved previous 20 years' JEE  Main papers published by Arihant and Disha publication</h2>    
       <a href="https://t.me/jeechallenger/372" target="_blank" style="padding-right: 25px;"><button class="button2_tele" style="font-size: 20px">Arihant</button></a>
       <a href="https://t.me/jeechallenger/377" target="_blank"><button class="button2_tele" style="font-size: 20px;">Disha</button></a>
