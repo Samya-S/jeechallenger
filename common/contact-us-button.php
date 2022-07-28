@@ -45,7 +45,7 @@
     <style>
         .contact-us-float{
             position:fixed;
-            z-index: 5;
+            z-index: 6;
             width:50px;
             height:50px;
             bottom:40px;
@@ -62,20 +62,37 @@
         }
         .ContactForm{
             display: none; 
-            position: fixed;
             z-index: 5;
             width:inherit;
             /* max-width: fit-content; */
             height:inherit;
-            /* max-height: fit-content; */
-            bottom:90px;
-            left:40px;
-            
+            /* max-height: fit-content; */            
         }
-        .ContactForm iframe{
-            width: 400px;
-            height: 700px;
-            border-radius: 20px;
+        @media screen and (min-width: 600px){
+            .ContactForm{
+                position: fixed;
+                bottom:90px;
+                left:40px;
+            }
+            .ContactForm iframe{
+                width: 400px;
+                height: 700px;
+                border-radius: 20px;
+            }
+        }
+        @media screen and (max-width: 600px){
+            .ContactForm{
+                position: absolute;
+                /* top:0px; */
+                bottom:0px;
+                left:0px;
+                right: 0px;
+            }
+            .ContactForm iframe{
+                width: 100vw;
+                height: 88vh;
+                /* border-radius: 20px; */
+            }
         }
     </style>
 
