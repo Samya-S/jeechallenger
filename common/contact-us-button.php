@@ -45,7 +45,7 @@
     <style>
         .contact-us-float{
             position:fixed;
-            z-index: 9.2;
+            z-index: 8.2;
             width:50px;
             height:50px;
             bottom:40px;
@@ -62,7 +62,7 @@
         }
         .ContactForm{
             display: none; 
-            z-index: 9.1;
+            z-index: 8.1;
             width:inherit;
             /* max-width: fit-content; */
             height:inherit;
