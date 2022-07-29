@@ -21,6 +21,10 @@ document.onkeydown = function(e) {
 };
 
 
+
+
+//hide navbar when scroll down
+
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
 var currentScrollPos = window.pageYOffset;
