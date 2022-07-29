@@ -116,9 +116,7 @@
 
 
 
-    <?php 
-    // include("common/modal.html"); 
-    ?>
+    <?php include("common/modal.html"); ?>
 
 
 
