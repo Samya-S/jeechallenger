@@ -19,7 +19,7 @@
 
     <title>JEE Challenger</title>
     <link rel="icon" href="images/jcicon.jpg" type="image/gif">
-    <script type="text/javascript" src="common.js"></script>
+    <script type="text/javascript" src="common/common.js"></script>
 </head>
 
 <body style="text-align: center;" oncontextmenu="return false;">
