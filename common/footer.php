@@ -63,5 +63,58 @@
 
 
 
+
+
+    <!-- temporary message to inform about change in domain  -->
+    <div class="alert">
+      <span class="closebtn fa fa-times"></span> 
+      <!-- <strong>Attention!</strong>  -->
+      We have moved the site to <a href="https://jeechallenger.herokuapp.com/" style="text-decoration: none; color: yellow;">jeechallenger.herokuapp.com/</a>. Please bookmark the new site. Thank you!
+    </div>
+
+    <script>
+        var close = document.getElementsByClassName("closebtn");
+        var i;
+
+        for (i = 0; i < close.length; i++) {
+            close[i].onclick = function(){
+                var div = this.parentElement;
+                div.style.opacity = "0";
+                setTimeout(function(){ div.style.display = "none"; }, 500);
+            }
+        }
+    </script>
+
+    <style>
+        .alert {
+          padding: 20px;
+          background-color: #f44336;
+          color: white;
+          position: fixed;
+          bottom: 0px;
+          width: 100%;
+          z-index: 1000;
+          opacity: 1;
+          transition: opacity 0.5s;
+        }
+
+        .closebtn {
+          position: fixed;
+          /* margin-left: 15px; */
+          color: white;
+          /* font-weight: bold; */
+          float: right;
+          right: 10px;
+          font-size: 22px;
+          line-height: 0px;
+          cursor: pointer;
+          transition: 0.3s;
+        }
+
+        .closebtn:hover {
+          color: black;
+        }
+    </style>
+
 </body>
 </html>
