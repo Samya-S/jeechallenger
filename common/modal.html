@@ -57,20 +57,16 @@
       }
     
     
-
-      // setTimeout(showModal,0);
-      // function showModal(){
-      //   modal.style.display = "block";
-      // }
+      
     
-    
-    
+      // display modal once in a session
       if(sessionStorage.getItem('showAlert') != "false"){
-            modal.style.display = "block";
-            sessionStorage.setItem('showAlert', "false");
-        }
+        modal.style.display = "block";  
+        sessionStorage.setItem('showAlert', "false");
+      }
     
-      // modal.style.display = "block";
+      // modal hidden
+      modal.style.display = "none";
     
     </script>
   
