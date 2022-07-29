@@ -81,7 +81,7 @@
             }
         }
         /* @media screen and (not((min-width: 600px) and (min-height: 700px))){ */
-        @media screen and (max-width: 600px) , (max-height: 800px){ /* , = or */
+        @media screen and ((max-width: 600px) , (max-height: 800px)){ /* , = or */
             .ContactForm{
                 position: fixed;
                 top:0px;
