@@ -68,7 +68,7 @@
             height:inherit;
             /* max-height: fit-content; */            
         }
-        @media screen and (min-width: 600px) and (min-height: 700px){
+        @media screen and (min-width: 600px) and (min-height: 800px){
             .ContactForm{
                 position: fixed;
                 bottom:90px;
@@ -81,7 +81,7 @@
             }
         }
         /* @media screen and (not((min-width: 600px) and (min-height: 700px))){ */
-        @media screen (max-width: 600px) , (max-height: 700px){ /* , = or */
+        @media screen (max-width: 600px) , (max-height: 800px){ /* , = or */
             .ContactForm{
                 position: fixed;
                 top:0px;
