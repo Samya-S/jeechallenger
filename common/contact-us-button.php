@@ -44,7 +44,7 @@
 
     <style>
         .contact-us-float{
-            position:fixed;
+            position: fixed;
             z-index: 8.2;
             width:50px;
             height:50px;
