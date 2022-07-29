@@ -8,13 +8,13 @@
     <meta name="google-site-verification" content="eJQ_FkMeExR2nx8-heo_SbYFUYcrIijnIqdyCNARH6k" />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-52WSKNTX68"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0JDZE219J"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     
-      gtag('config', 'G-52WSKNTX68');
+      gtag('config', 'G-F0JDZE219J');
     </script>
 
     <title>JEE Challenger</title>
