@@ -80,7 +80,7 @@
                 border-radius: 20px;
             }
         }
-        @media screen (max-width: 600px) or (max-height: 700px){
+        @media screen (max-width: 600px) , (max-height: 700px){ /* , = or */
             .ContactForm{
                 position: fixed;
                 top:0px;
