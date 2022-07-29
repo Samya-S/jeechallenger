@@ -47,7 +47,7 @@
               <button class="NavCloseButton" onclick="toggleNavClose()">&times;</button>
             </div>
             <ul class="ul-class">
-              <li><a href="#" class="active dropbtn"><b>Home</b></a></li>
+              <li><a href="#" class="active dropdown"><b class="dropbtn">Home</b></a></li>
               <li>
                 <div class="dropdown">
                   <button class="dropbtn">Materials<i class="rotate fa fa-caret-down"></i></button>
