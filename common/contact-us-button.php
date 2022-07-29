@@ -45,7 +45,7 @@
     <style>
         .contact-us-float{
             position:fixed;
-            z-index: 6;
+            z-index: 8.2;
             width:50px;
             height:50px;
             bottom:40px;
@@ -62,7 +62,7 @@
         }
         .ContactForm{
             display: none; 
-            z-index: 5;
+            z-index: 8.1;
             width:inherit;
             /* max-width: fit-content; */
             height:inherit;
@@ -83,14 +83,14 @@
         @media screen and (max-width: 600px){
             .ContactForm{
                 position: absolute;
-                /* top:0px; */
+                top:0px;
                 bottom:0px;
                 left:0px;
                 right: 0px;
             }
             .ContactForm iframe{
                 width: 100vw;
-                height: 88vh;
+                height: 100vh;
                 /* border-radius: 20px; */
             }
         }
