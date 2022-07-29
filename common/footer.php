@@ -69,7 +69,7 @@
     <div class="alert" id="alertID">
       <span class="closebtn fa fa-times"></span> 
       <!-- <strong>Attention!</strong>  -->
-      We have moved the site to <a href="https://jeechallenger.herokuapp.com/" style="text-decoration: none; color: yellow;">jeechallenger.herokuapp.com/</a>. Please bookmark the new site. Thank you!
+      We have moved our site to <a href="https://jeechallenger.herokuapp.com/" style="text-decoration: none; color: yellow;">jeechallenger.herokuapp.com/</a>. Please bookmark the new site. Thank you!
     </div>
 
     <script>
