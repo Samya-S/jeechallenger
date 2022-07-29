@@ -80,8 +80,9 @@
                 border-radius: 20px;
             }
         }
-        @media screen and (not((min-width: 600px) and (min-height: 800px))){
+        /* @media screen and (not((min-width: 600px) and (min-height: 800px))){ */
         /* @media screen and ((max-width: 600px) , (max-height: 800px)){ , = or */
+        @media screen and (max-width: 600px), screen and (max-height: 800px){
             .ContactForm{
                 position: fixed;
                 top:0px;
