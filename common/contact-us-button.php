@@ -8,14 +8,19 @@
 </head>
 <body>
 
+    <a href="http://jeechallenger.godaddysites.com/contact-us" target="_blank">
+        <button class="contact-us-float">
+            <i class="fa fa-phone" id="contact-button-icon"></i>
+        </button>
+    </a>
 
-    <button class="contact-us-float" onclick="openContactForm()">
+    <!-- <button class="contact-us-float" onclick="openContactForm()">
         <i class="fa fa-phone" id="contact-button-icon"></i>
     </button>
         
     <div id="myContactForm" class="ContactForm">
         <iframe src="https://jeechallenger.herokuapp.com/php/iframe.php?url=https://jeechallenger.godaddysites.com/contact-us" frameborder="0"></iframe>
-    </div> 
+    </div>  -->
 
 
 
