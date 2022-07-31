@@ -109,7 +109,17 @@
     </div>
 
 
+
     <div style="padding: 2%;">
+      <h1>JEE Main papers</h1>
+      <h2>Chapter wise solved previous 20 years' JEE  Main papers published by Arihant and Disha publication</h2>    
+      <a href="https://t.me/jeechallenger/372" target="_blank" style="padding-right: 25px;"><button class="button2_tele" style="font-size: 20px">Arihant</button></a>
+      <a href="https://t.me/jeechallenger/377" target="_blank"><button class="button2_tele" style="font-size: 20px;">Disha</button></a>
+    </div>
+
+
+
+    <div style="padding: 2%; background-color: rgba(212, 212, 212, 0.26);">
       <h1>Wiley</h1>22 Years' (1998-2019)
       <div class="flex-container">
         <div><h2>JEE Advanced Chapter wise Solved Papers</h2><a href="https://t.me/jeechallenger/351" target="_blank"><button class="button1">Download</button></a></div>
@@ -117,12 +127,14 @@
     </div>
 
 
-    <div style="padding: 2%; background-image: url('../images/tg-bg.jpg');">
-      <h1>JEE Main papers</h1>
-      <h2>Chapter wise solved previous 20 years' JEE  Main papers published by Arihant and Disha publication</h2>    
-      <a href="https://t.me/jeechallenger/372" target="_blank" style="padding-right: 25px;"><button class="button2_tele" style="font-size: 20px">Arihant</button></a>
-      <a href="https://t.me/jeechallenger/377" target="_blank"><button class="button2_tele" style="font-size: 20px;">Disha</button></a>
+
+    <div style="padding: 2%;">
+      <h1>Disha</h1>15 Years' (2006-2020)
+      <div class="flex-container">
+        <div><h2>JEE Advanced Chapter wise Solved Papers</h2><a href="https://t.me/jeechallenger/398" target="_blank"><button class="button1">Download</button></a></div>
+      </div>
     </div>
+
 
 
     <a href="https://t.me/jeechallenger" target="_blank" class="telegram-float">
