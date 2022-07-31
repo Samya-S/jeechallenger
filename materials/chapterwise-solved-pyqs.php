@@ -111,8 +111,7 @@
 
 
     <div style="padding: 2%;">
-      <h1>JEE Main papers</h1>
-      <h2>Chapter wise solved previous 20 years' JEE  Main papers</h2> 
+      <h1>JEE Main papers</h1>(Chapter wise solved previous 20 years' JEE  Main papers)
       <div class="flex-container">
         <div class="block"><h2>Arihant</h2><a href="https://t.me/jeechallenger/372" target="_blank"><button class="button1">Download</button></a></div>
         <div class="block"><h2>Disha</h2><a href="https://t.me/jeechallenger/377" target="_blank"><button class="button1">Download</button></a></div>
