@@ -112,9 +112,11 @@
 
     <div style="padding: 2%;">
       <h1>JEE Main papers</h1>
-      <h2>Chapter wise solved previous 20 years' JEE  Main papers published by Arihant and Disha publication</h2>    
-      <a href="https://t.me/jeechallenger/372" target="_blank" style="padding-right: 25px;"><button class="button2_tele" style="font-size: 20px">Arihant</button></a>
-      <a href="https://t.me/jeechallenger/377" target="_blank"><button class="button2_tele" style="font-size: 20px;">Disha</button></a>
+      <h2>Chapter wise solved previous 20 years' JEE  Main papers published by Arihant and Disha publication</h2> 
+      <div class="flex-container">
+        <div class="block"><h2>Arihant</h2><a href="https://t.me/jeechallenger/372" target="_blank"><button class="button1">Download</button></a></div>
+        <div class="block"><h2>Disha</h2><a href="https://t.me/jeechallenger/377" target="_blank"><button class="button1">Download</button></a></div>
+      </div>   
     </div>
 
 
