@@ -163,11 +163,8 @@
 
 
 
-    <a href="https://t.me/jeechallenger" target="_blank" class="telegram-float">
-      <p>Join us on</p>
-      <i class="fa fa-telegram"></i>
-    </a>
-  
+    <?php include("../common/telegram-float.php"); ?>
+
   
     <?php include("../common/contact-us-button.php"); ?>
     
