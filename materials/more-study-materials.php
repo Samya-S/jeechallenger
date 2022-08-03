@@ -156,7 +156,7 @@
           <b style="font-size: 30px; text-align: center;">JEE Challenger</b>
         </p>
         
-        <a href="https://t.me/jeechallenger" target="_blank"><button class="button2_tele" style="font-size: 20px;">Join us on Telegram</button></a>
+        <a href="https://t.me/+oOnj4y_ZYqYyZjA1" target="_blank"><button class="button2_tele" style="font-size: 20px;">Join us on Telegram</button></a>
 
 
           <!-- <fieldset class="form-elements">
@@ -195,10 +195,7 @@
 
 
 
-    <a href="https://t.me/jeechallenger" target="_blank" class="telegram-float">
-      <p>Join us on</p>
-      <i class="fa fa-telegram"></i>
-    </a>
+    <?php include("../common/telegram-float.php"); ?>
   
   
     <?php include("../common/contact-us-button.php"); ?>
