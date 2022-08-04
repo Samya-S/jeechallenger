@@ -77,18 +77,312 @@
       <h1 class="message">Link to JEE Main Official Website</h1><a href="https://jeemain.nta.nic.in/" target="_blank"><button class="button2">Go</button></a>
     </div>
 
+
+
+
+
     <div style="padding: 2%;">
       <h1>JEE Main Question Papers</h1>
 
 
 
+      <section class="content-section mt-4">
+        <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
+        JEE Main 2022 Session-2 Paper with Answer Key (July Attempt)</h2>
+        <div class="table-outer">
+            <table cellspacing="0" cellpadding="0" align="center">
+              <tbody>               
+                <tr>
+                  <th width="15%">Date</th>
+                  <th width="25%" class="center">Shift</th>
+                  <th width="20%" class="center">Physics</th>
+                  <th width="20%" class="center">Chemistry</th>
+                  <th width="20%" class="center">Maths</th>
+                </tr>
+                <tr>
+                  <td rowspan="2">25 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2507-Physics-Paper-With-Ans-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2507-Chemistry-Paper-With-Answer-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2507-Mathematics-Paper-With-Answer-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2507-Physics-Paper-With-Ans-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2507-Chemistry-Paper-With-Answer-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2507-Mathematics-Paper-With-Answer-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">26 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2607-Physics-Paper-With-Ans-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2607-Chemistry-Paper-With-Answer-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2607-Mathematics-Paper-With-Answer-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2607-Physics-Paper-With-Ans-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2607-Chemistry-Paper-With-Answer-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2607-Mathematics-Paper-With-Answer-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">27 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2707-Physics-Paper-With-Ans-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2707-Chemistry-Paper-With-Answer-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">28 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2807-Physics-Paper-With-Ans-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2807-Physics-Paper-With-Ans-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2807-Chemisty-Paper-With-Answer-Evening.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">29 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-answer/2907-Physics-Paper-With-Ans-Morning.pdf" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
+      </section>
 
 
+      <br><br>
+
+
+      <section class="content-section">
+	      <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
+        JEE Main 2022 Session-2 Paper with Solutions (July Attempt)</h2>
+	      <div class="table-outer">
+	          <table cellspacing="0" cellpadding="0" align="center">
+              <tbody>               
+                <tr>
+                  <th width="15%">Date</th>
+                  <th width="25%" class="center">Shift</th>
+                  <th width="20%" class="center">Physics</th>
+                  <th width="20%" class="center">Chemistry</th>
+                  <th width="20%" class="center">Maths</th>
+                </tr>
+                <tr>
+                  <td rowspan="2">25 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2507-Physics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2507-Chemistry-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2507-Mathematics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2507-Physics-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2507-Chemistry-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2507-Mathematics-Paper-With-Answer-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 25 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">26 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2607-Physics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2607-Chemistry-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2607-Mathematics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2607-Physics-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2607-Chemistry-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2607-Mathematics-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 26 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">27 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2707-Physics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2707-Chemistry-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 27 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">28 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2807-Physics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2807-Physics-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2807-Chemisty-Paper-With-Solution-Evening.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 28 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td rowspan="2">29 July 2022</td>
+                  <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
+                  <td align="center">
+                  	<a href="https://allenwebsite-general.s3.ap-south-1.amazonaws.com/allen-website/answerkey/jeemain/july-2022/paper-with-solutions/2907-Physics-Paper-With-Solution-Morning.pdf" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Download</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 1 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 1 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">Shift 2 (3:00 PM – 06:00 PM)</td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 2 Physics' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 2 Chemistry' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                  <td align="center">
+                  	<a href="#" class="notclicked" target="_blank" onclick="gtag('event', 'Paper Solution', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 July Shift 2 Maths' });"><i class="fa fa-file-pdf-o"></i> Wait</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
+      </section>
+
+
+      <br><br>
 
 
       <section class="content-section">
         <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-        JEE Main 2022 Paper with Answer Key (June Attempt)</h2>
+        JEE Main 2022 Session-1 Paper with Answer Key (June Attempt)</h2>
         <div class="table-outer">
             <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
@@ -193,7 +487,7 @@
 
       <section class="content-section">
         <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-        JEE Main 2022 Paper with Solutions (June Attempt)</h2>
+        JEE Main 2022 Session-1 Paper with Solutions (June Attempt)</h2>
         <div class="table-outer">
             <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
