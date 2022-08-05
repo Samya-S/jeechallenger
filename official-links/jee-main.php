@@ -85,9 +85,6 @@
       <h1>JEE Main Question Papers</h1>
 
       <style>
-        .table-outer{
-          text-align: center;
-        }
         table, th, td {
           border: 1px solid black;
           border-collapse: collapse;
@@ -103,7 +100,7 @@
         <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
         JEE Main 2022 Session-2 Paper with Answer Key (July Attempt)</h2>
         <div class="table-outer">
-            <table cellspacing="0" cellpadding="0">
+            <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
                 <tr>
                   <th width="15%">Date</th>
@@ -250,7 +247,7 @@
 	      <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
         JEE Main 2022 Session-2 Paper with Solutions (July Attempt)</h2>
 	      <div class="table-outer">
-	          <table cellspacing="0" cellpadding="0">
+	          <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
                 <tr>
                   <th width="15%">Date</th>
@@ -397,7 +394,7 @@
         <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
         JEE Main 2022 Session-1 Paper with Answer Key (June Attempt)</h2>
         <div class="table-outer">
-            <table cellspacing="0" cellpadding="0">
+            <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
                 <tr>
                   <th width="15%">Date</th>
@@ -502,7 +499,7 @@
         <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
         JEE Main 2022 Session-1 Paper with Solutions (June Attempt)</h2>
         <div class="table-outer">
-            <table cellspacing="0" cellpadding="0">
+            <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
                 <tr>
                   <th width="15%">Date</th>
