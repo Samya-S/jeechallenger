@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <a href="http://jeechallenger.godaddysites.com/contact-us" target="_blank">
+    <a href="https://jeechallenger.godaddysites.com/contact-us" target="_blank">
         <button class="contact-us-float">
             <i class="fa fa-phone" id="contact-button-icon"></i>
         </button>
