@@ -82,7 +82,7 @@
       <div class="flex-container">
         <div class="block"><h2>Past Question Papers and Final Answer Keys</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/archive.html" target="_blank"><button class="button1">Go</button></a></div>
         <div class="block"><h2>Syllabus</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/syllabus/combined-syllabus.pdf" target="_blank"><button class="button1">Go</button></a></div>
-        <div class="block"><h2>Opening and closing ranks of previous years</h2><h3><p>Link to official website</p></h3><a href="http://jeeadv.ac.in/openclose.php" target="_blank"><button class="button1">Go</button></a></div>
+        <div class="block"><h2>Previous years' JEE Advanced reports</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/reports.html" target="_blank"><button class="button1">Go</button></a></div>
       </div>
       <br>
       <div class="block2"><h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;">&nbsp; Revised Syllabus to be followed from JEE (Advanced) 2023</h2><h3><p>Link to official website</p></h3><a href="https://jeeadv.ac.in/misc/jee-advanced-2023-syllabus.pdf" target="_blank"><button class="button1">Go</button></a></div>
