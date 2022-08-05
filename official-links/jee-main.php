@@ -85,7 +85,7 @@
       <h1>JEE Main Question Papers</h1>
 
       <style>
-        table{
+        .table-outer{
           text-align: center;
         }
         table, th, td {
