@@ -102,7 +102,9 @@
           color: white;
           position: fixed;
           bottom: 0px;
-          width: 100%;
+          right: 0px;
+          left: 0px;
+          /* width: 100%; */
           z-index: 1000;
           opacity: 1;
           transition: opacity 0.5s;
