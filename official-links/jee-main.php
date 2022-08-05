@@ -86,7 +86,7 @@
 
       <style>
         table{
-          align: center;
+          text-align: center;
         }
         table, th, td {
           border: 1px solid black;
