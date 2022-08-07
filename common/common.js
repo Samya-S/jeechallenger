@@ -41,12 +41,12 @@ window.onscroll = function() {
 
 
 
-// get element to display once by id
+// get element to display once by id                                      // not working
 
-var displayOnce = document.getElementById("display-once");
+// var displayOnce = document.getElementById("display-once");
 
-// display modal/alert once in a session
-if(sessionStorage.getItem('showAlert') != "false"){
-  displayOnce.style.display = "block";  
-  sessionStorage.setItem('showAlert', "false");
-}
+// // display modal/alert once in a session
+// if(sessionStorage.getItem('showAlert') != "false"){
+//   displayOnce.style.display = "block";  
+//   sessionStorage.setItem('showAlert', "false");
+// }
