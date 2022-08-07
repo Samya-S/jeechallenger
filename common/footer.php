@@ -66,7 +66,7 @@
 
 
     <!-- temporary message to inform about change in domain  -->
-    <div class="alert" id="alertID">
+    <div class="alert display-once" id="alertID">
       <span class="closebtn fa fa-times"></span> 
       <!-- <strong>Attention!</strong>  -->
       We have moved our site to <a href="https://jeechallenger.herokuapp.com/" style="text-decoration: none; color: yellow;">jeechallenger.herokuapp.com/</a>. Please bookmark the new site. Thank you!
@@ -88,10 +88,12 @@
 
         var alertM = document.getElementById("alertID");
 
-        if(sessionStorage.getItem('showAlert') != "false"){
-          alertM.style.display = "block";  
-          sessionStorage.setItem('showAlert', "false");
-        }
+
+        // display alert once in a session                                    // moved to common.js
+        // if(sessionStorage.getItem('showAlert') != "false"){
+        //   alertM.style.display = "block";  
+        //   sessionStorage.setItem('showAlert', "false");
+        // }
     </script>
 
     <style>
