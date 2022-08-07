@@ -94,15 +94,11 @@
           alertM.style.display = "block";  
           sessionStorage.setItem('showAlert', "false");
         }
-        if(sessionStorage.getItem('showAlert') == "false"){
-          alertM.style.display = "none";  
-          sessionStorage.setItem('showAlert', "true");
-        }
     </script>
 
     <style>
         .alert {
-          display: block;
+          display: none;
           padding: 20px;
           background-color: #f44336;
           color: white;
