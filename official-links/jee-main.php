@@ -484,7 +484,7 @@
                 <tr>
                   <td>30 June 2022</td>
                   <td align="center">Shift 1 (9:00 AM – 12:00 PM)</td>
-                  <td align="center" colspan="3"><a href="https://t.me/c/1655397860/329" target="_blank" onclick="gtag('event', 'Answer Key', { 'event_category': 'JEE Main 2022', 'event_label': 'PDF Download 29 June Shift 1 Physics' });"><i class="fa fa-file-pdf-o"></i> Official Paper with answer key</a></td>
+                  <td align="center" colspan="3"><a href="https://t.me/c/1655397860/329" target="_blank"  onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><i class="fa fa-file-pdf-o"></i> Official Paper with answer key</a></td>
                 </tr>
               </tbody>
             </table>
@@ -611,11 +611,11 @@
           <img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
           JEE Main - June 2022 Official Papers are available at our official telegram channel. <br> Get it now.
         </p>
-        <a href="https://t.me/c/1655397860/254" target="_blank"><button class="button2_tele" style="font-size: 20px;">Click here</button></a>
+        <a href="https://t.me/c/1655397860/254" target="_blank" onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><button class="button2_tele" style="font-size: 20px;">Click here</button></a>
       </div> -->
       <br><br><br>
       <div class="flex-container">
-        <div class="block"><h2>Question Papers 2021</h2><h3><p>Booklet by ALLEN</p></h3><a href="https://t.me/c/1655397860/238" target="_blank"><button class="button1">Download</button></a></div>
+        <div class="block"><h2>Question Papers 2021</h2><h3><p>Booklet by ALLEN</p></h3><a href="https://t.me/c/1655397860/238" target="_blank" onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><button class="button1">Download</button></a></div>
         <div class="block"><h2>Question Papers 2020</h2><h3><p>With solutions</p></h3><a><button class="button1" onclick="toggle_show_hide_Function()">Click Here</button></a></div>
       </div>
     </div>
