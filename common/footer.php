@@ -89,11 +89,11 @@
         var alertM = document.getElementById("alertID");
 
 
-        // display alert once in a session                                    // moved to common.js
-        // if(sessionStorage.getItem('showAlert') != "false"){
-        //   alertM.style.display = "block";  
-        //   sessionStorage.setItem('showAlert', "false");
-        // }
+        // display alert once in a session
+        if(sessionStorage.getItem('showAlert') != "false"){
+          alertM.style.display = "block";  
+          sessionStorage.setItem('showAlert', "false");
+        }
     </script>
 
     <style>
