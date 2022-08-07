@@ -14,7 +14,7 @@
     <!-- <button id="myBtn">Open Modal</button> -->
 
     <!-- The Modal -->
-    <div id="myModal" class="modal">
+    <div id="myModal display-once" class="modal">
 
         <!-- Modal content -->
         <div class="modal-content gradient-animation" id="slide">
@@ -59,11 +59,11 @@
     
       
     
-      // display modal once in a session
-      if(sessionStorage.getItem('showAlert') != "false"){
-        modal.style.display = "block";  
-        sessionStorage.setItem('showAlert', "false");
-      }
+      // display modal once in a session                                    // moved to common.js
+      // if(sessionStorage.getItem('showAlert') != "false"){
+      //   modal.style.display = "block";  
+      //   sessionStorage.setItem('showAlert', "false");
+      // }
     
       // modal hidden
       // modal.style.display = "none";

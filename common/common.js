@@ -41,9 +41,12 @@ window.onscroll = function() {
 
 
 
+// get element to display once by id
 
-// redirect from GitHub pages to Heroku app
+var displayOnce = document.getElementById("display-once");
 
-// if (window.location == "https://samya-s.github.io/jeechallenger/") {
-//   window.location.href = 'https://jeechallenger.herokuapp.com/'; 
-// }
+// display modal/alert once in a session
+if(sessionStorage.getItem('showAlert') != "false"){
+  displayOnce.style.display = "block";  
+  sessionStorage.setItem('showAlert', "false");
+}
