@@ -98,7 +98,7 @@
             <div id="start-line">
               <h1>Tools To Help You Succeed</h1>
             </div>
-            <a href="https://bit.ly/SamyaSahaYt" target="blank">
+            <a href="#" target="blank">
               <h4 style="font-weight: normal;">
                 <div id="copy">&copy</div>
                 <div id="name">
