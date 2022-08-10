@@ -98,7 +98,8 @@
             <div id="start-line">
               <h1>Tools To Help You Succeed</h1>
             </div>
-            <a href="#" target="blank">
+            <!-- <a href="#" target="blank"> -->
+            <a href="#">
               <h4 style="font-weight: normal;">
                 <div id="copy">&copy</div>
                 <div id="name">
