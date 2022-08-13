@@ -64,23 +64,23 @@
 
 
 /* text animation */
-/* .centered h4{
+.centered h4{
     display:inline-block;
     overflow:hidden;
     white-space: nowrap;
 }
 .centered h4 #copy {
-    animation: showup 7s;
+    /* animation: showup 7s; */
     display:inline-block;
     overflow:hidden;
     white-space: nowrap;
 }
 .centered h4 #name {
-    animation: reveal1 7s;
+    /* animation: reveal1 7s; */
     display:inline-block;
     overflow:hidden;
     white-space: nowrap;
-} */
+}
                                                 /* .centered h4 #name span {
                                                     animation: slidein 7s;
                                                 } */
