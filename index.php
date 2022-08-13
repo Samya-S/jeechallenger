@@ -99,14 +99,14 @@
               <h1>Tools To Help You Succeed</h1>
             </div>
             <!-- <a href="#" target="blank"> -->
-            <a href="#">
+            <!-- <a href="#"> -->
               <h4 style="font-weight: normal;">
                 <div id="copy">&copy</div>
                 <div id="name">
                   <span>Samya Saha</span>
                 </div>
               </h4>
-            </a>
+            <!-- </a> -->
           </p>
         </div>
         <div class="welcomeimgpc">
