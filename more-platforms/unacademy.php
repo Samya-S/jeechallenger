@@ -86,11 +86,11 @@
     <div style="padding: 2%; background-color: rgba(212, 212, 212, 0.26);">
         <div class="flex-container2">
           <div class="block"><h2>JEE YouTube Channel</h2><a href="https://www.youtube.com/c/UnacademyJEE" target="_blank"><button class="button1">Click here</button></a></div>
-          <div class="block"><h2>JEE Live Daily</h2><a href="https://livedaily.me/jee" target="_blank"><button class="button1">Click here</button></a></div>
+          <div class="block"><h2>JEE Live Daily</h2><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUwyeyCbReMBmABf-Q-XqG40oB5KrDQoUlLMpDZhBu18YasgWI72pAyH4beYolw95ylxQJdPqSWcig/pubhtml" target="_blank"><button class="button1">Click here</button></a></div>
         </div>
         <div class="flex-container2">
           <div class="block"><h2>Atoms YouTube Channel</h2><a href="https://www.youtube.com/c/UnacademyAtoms" target="_blank"><button class="button1">Click here</button></a></div>
-          <div class="block"><h2>Atoms Spreadsheet</h2><a href="https://livedaily.me/atoms" target="_blank"><button class="button1">Click here</button></a></div>
+          <div class="block"><h2>Atoms Spreadsheet</h2><a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSGdvJCyKe-ZNbftgiYhgiftUINBIRiTiT53bjvHPDZ2NUuoAbelekk6213TtLa25S6pseSsozKIZ7C/pubhtml" target="_blank"><button class="button1">Click here</button></a></div>
         </div>
     </div>
 
