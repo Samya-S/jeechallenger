@@ -46,7 +46,7 @@
 
 
 /* image animation */
-@media screen and (min-width: 900px){
+/* @media screen and (min-width: 900px){
     .welcomeimgpc{
         animation: slide-left 0.4s ease;
     }
@@ -60,11 +60,11 @@
             transform: translateX(0);
         }
     }
-}
+} */
 
 
 /* text animation */
-.centered h4{
+/* .centered h4{
     display:inline-block;
     overflow:hidden;
     white-space: nowrap;
@@ -80,24 +80,24 @@
     display:inline-block;
     overflow:hidden;
     white-space: nowrap;
-}
-/* .centered h4 #name span {
-    animation: slidein 7s;
 } */
-@media screen and (min-width: 900px){
+                                                /* .centered h4 #name span {
+                                                    animation: slidein 7s;
+                                                } */
+/* @media screen and (min-width: 900px){
     @keyframes showup {
         0% {opacity:0;}
         20% {opacity:1;}
         80% {opacity:1;}
         100% {opacity:1;}
-    }
-    /* @keyframes slidein {
-        0% { margin-left:-800px; }
-        20% { margin-left:-800px; }
-        35% { margin-left:0px; }
-        100% { margin-left:0px; }
     } */
-    @keyframes reveal1 {
+                                                /* @keyframes slidein {
+                                                    0% { margin-left:-800px; }
+                                                    20% { margin-left:-800px; }
+                                                    35% { margin-left:0px; }
+                                                    100% { margin-left:0px; }
+                                                } */
+    /* @keyframes reveal1 {
         0% {opacity:0;width:0px;}
         20% {opacity:1;width:0px;}
         30% {width:152.5px;}
@@ -111,11 +111,13 @@
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    font-family: "Source Sans Pro", sans-serif;
-    animation: reveal 1s ease-out 1 both /*ease-in-out forwards 200ms*//*, glow 2500ms linear infinite 2000ms -- glow animation removed*/;
-    display: inline-block;
-}
-@media screen and (min-width: 900px){
+    font-family: "Source Sans Pro", sans-serif; */
+    /* animation: reveal 1s ease-out 1 both  */
+    /*ease-in-out forwards 200ms*//*, glow 2500ms linear infinite 2000ms -- glow animation removed*/
+    /* ; */
+    /* display: inline-block;
+} */
+/* @media screen and (min-width: 900px){
     @keyframes reveal {
         from{
             opacity: 0;
@@ -125,21 +127,21 @@
             opacity: 1;
             transform: perspective(500px) translate3d(0, 0, 0);
         }
-    }
+    } */
 
     /* @keyframes glow {                                -- glow animation removed
         40% {
         text-shadow: 0 0 8px rgb(255, 50, 0);
         }
     } */
-}
-/* @media screen and (max-width: 900px){
-    @keyframes glow {
-        40% {
-        text-shadow: 0 0 8px rgb(0, 0, 0);
-        }
-    }
-    #name, #copy{
-        font-weight: 500;
-    }
-} */
+/* } */
+                                                            /* @media screen and (max-width: 900px){
+                                                                @keyframes glow {
+                                                                    40% {
+                                                                    text-shadow: 0 0 8px rgb(0, 0, 0);
+                                                                    }
+                                                                }
+                                                                #name, #copy{
+                                                                    font-weight: 500;
+                                                                }
+                                                            } */
