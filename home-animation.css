@@ -104,19 +104,19 @@
         80% {opacity:1;}
         100% {opacity:1;width:152.5px;}
     }
-}
+} */
 
 .centered #start-line{
-    background: 50% 100% / 50% 50% no-repeat radial-gradient(ellipse at bottom, rgb(255, 50, 0), transparent, transparent);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-family: "Source Sans Pro", sans-serif; */
+    /* background: 50% 100% / 50% 50% no-repeat radial-gradient(ellipse at bottom, rgb(255, 50, 0), transparent, transparent); */
+    /* -webkit-background-clip: text; */
+    /* background-clip: text; */
+    /* color: transparent; */
+    font-family: "Source Sans Pro", sans-serif;
     /* animation: reveal 1s ease-out 1 both  */
     /*ease-in-out forwards 200ms*//*, glow 2500ms linear infinite 2000ms -- glow animation removed*/
-    /* ; */
-    /* display: inline-block;
-} */
+    ;
+    display: inline-block;
+}
 /* @media screen and (min-width: 900px){
     @keyframes reveal {
         from{
