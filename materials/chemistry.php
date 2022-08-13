@@ -178,7 +178,14 @@
     </div>
 
 
+    <div style="padding: 2%; background-image: url('../images/tg-bg.jpg');">
+      <h1>More from our Telegram Channel</h1>
+      <h3 style="font-weight: normal;">(<strong>Please note:</strong> These links will only work if you are a subscriber of our official telegram channel. If so, please proceed. Or else, please join our telegram channel before proceeding.)</h3>
 
+      <div style="isolation: isolate;">
+          <script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="jeechallengerindex/5" data-width="100%" data-dark="1"></script>
+      </div>  
+    </div>
 
     <?php include("../common/telegram-float.php"); ?>
 
