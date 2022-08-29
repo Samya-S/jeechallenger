@@ -15,62 +15,11 @@
     <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
     <script type="text/javascript" src="../common/dark-mode.js"></script>
 
-    <header id="navbar">
-        <div class="menu-toggle">
-          <button class="NavOpenButton" onclick="toggleNavOpen()"><i class="fa fa-bars NavOpenButton" aria-hidden="true"></i></button>
-        </div>
-        <p>
-          <a href="../home">
-            <b>JEE Challenger</b>
-          </a>
-        </p>
-        <nav>
-          <div class="menu-toggle">
-            <button class="NavCloseButton" onclick="toggleNavClose()">&times;</button>
-          </div>
-          <ul class="ul-class">
-            <li><a href="../home"><b>Home</b></a></li>
-            <li>
-              <div class="dropdown">
-                <button class="dropbtn">Materials<i class="rotate fa fa-caret-down"></i></button>
-                <ul>
-                  <div class="dropdown-content">
-                    <li><a href="../materials/physics">Physics PDFs</a></li>
-                    <li><a href="../materials/chemistry">Chemistry PDFs</a></li>
-                    <li><a href="../materials/mathematics">Mathematics PDFs</a></li>
-                    <li><a href="../materials/chapterwise-solved-pyqs">Chapterwise solved PYQs</a></li>
-                    <li><a href="../materials/more-study-materials">More study materials</a></li>
-                  </div>
-                </ul>
-              </div>
-            </li>
-            <li>
-              <div class="dropdown">
-                <button class="dropbtn">Officials links<i class="rotate fa fa-caret-down"></i></button>
-                <ul>
-                  <div class="dropdown-content">
-                    <li><a href="../official-links/jee-main">JEE Main</a></li>
-                    <li><a href="../official-links/jee-advanced">JEE Advanced</a></li>                
-                  </div>
-                </ul>
-              </div>
-            </li>
-            <li>
-              <div class="dropdown">
-                <button class="dropbtn">More platforms<i class="rotate fa fa-caret-down"></i></button>
-                <ul>
-                  <div class="dropdown-content">
-                    <li><a href="#" class="active">Apni Kaksha</a></li>
-                    <li><a href="physicswallah">Physics Wallah</a></li>
-                    <li><a href="unacademy">Unacademy</a></li>
-                  </div>
-                </ul>
-              </div>
-            </li>
-          </ul>
-        </nav>    
-    
-    </header>
+    <?php include("../common/header.php"); ?>
+    <script>
+      document.getElementById("navBtn_MorePlatforms").className += " active";
+      document.getElementById("navBtn_ApniKaksha").className += " active";
+    </script>
 
 
     <img class="Uimg" style="width: 100%;" src="../images/apnikaksha.jpg" alt="" srcset="">

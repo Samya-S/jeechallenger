@@ -30,66 +30,19 @@
   <div id="Home">
 
     <div style="position: relative; text-align: center; color: white;">
-      <div class="welcomeimg"></div>
+        <div class="welcomeimg"></div>
         <!-- <img src="images/jc-coverbg.jpg" alt="" class="homecover" style="box-sizing: border-box;"> -->
         <!-- <img src="images/jc-coverbg-mobile.jpg" alt="" class="homecover-mobile" style="box-sizing: border-box;"> -->
-        <header id="navbar">
-          <div class="menu-toggle">
-            <button class="NavOpenButton" onclick="toggleNavOpen()"><i class="fa fa-bars NavOpenButton" aria-hidden="true"></i></button>
-          </div>
-          <p>
-            <a href="#">
-              <b>JEE Challenger</b>
-            </a>
-          </p>
-          <nav>
-            <div class="menu-toggle">
-              <button class="NavCloseButton" onclick="toggleNavClose()">&times;</button>
-            </div>
-            <ul class="ul-class">
-              <li><a href="#" class="active"><b>Home</b></a></li>
-              <li>
-                <div class="dropdown">
-                  <button class="dropbtn">Materials<i class="rotate fa fa-caret-down"></i></button>
-                  <ul>
-                    <div class="dropdown-content">
-                      <li><a href="materials/physics">Physics PDFs</a></li>
-                      <li><a href="materials/chemistry">Chemistry PDFs</a></li>
-                      <li><a href="materials/mathematics">Mathematics PDFs</a></li>
-                      <li><a href="materials/chapterwise-solved-pyqs">Chapterwise solved PYQs</a></li>
-                      <li><a href="materials/more-study-materials">More study materials</a></li>
-                    </div>
-                  </ul>
-                </div>
-              </li>
-              <li>
-                <div class="dropdown">
-                  <button class="dropbtn">Officials links<i class="rotate fa fa-caret-down"></i></button>
-                  <ul>
-                    <div class="dropdown-content">
-                      <li><a href="official-links/jee-main">JEE Main</a></li>
-                      <li><a href="official-links/jee-advanced">JEE Advanced</a></li>                
-                    </div>
-                  </ul>
-                </div>
-              </li>
-              <li>
-                <div class="dropdown">
-                  <button class="dropbtn">More platforms<i class="rotate fa fa-caret-down"></i></button>
-                  <ul>
-                    <div class="dropdown-content">
-                      <li><a href="more-platforms/apnikaksha">Apni Kaksha</a></li>
-                      <li><a href="more-platforms/physicswallah">Physics Wallah</a></li>
-                      <li><a href="more-platforms/unacademy">Unacademy</a></li>
-                    </div>
-                  </ul>
-                </div>
-              </li>
-            </ul>
-          </nav>
-          
-    
-        </header>
+
+
+
+        <?php include("common/header.php"); ?>
+        <script>
+          document.getElementById("navBtn_Home").className += " active";
+        </script>
+
+
+
 
       <link rel="stylesheet" href="home-animation.css">
       <div class="welcomepc">
