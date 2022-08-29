@@ -112,6 +112,7 @@
     
     <div style="padding: 2%;">
       <h1>More Contents</h1>
+
       <div class="flex-container2">
         <div class="block">
           <p><h2>Chapter wise solved PYQs</h2><img class="thumbnail-img" src="images/pyqs.jpg" alt=""><br>
@@ -124,25 +125,28 @@
           <a href="https://ncert.nic.in/textbook.php" target="_blank"><button class="button1">Go</button></a></p>
         </div>
       </div>
+
       <div style="padding: 2%;">
         <div class="block">
-          <p><img class="thumbnail-img" style="max-width: 100%;" src="images/apnikaksha.jpg" alt="">
-          <p>Premium Education for All for free or at the most affordable price</p>
-          <a href="more-platforms/apnikaksha"><button class="button1">Go</button></a></p>
-        </div>
-      </div>
-      <div class="flex-container2">
-        <div class="block">
-          <p><img class="thumbnail-img" src="images/pwallah.jpg" alt="">
-          <p>The most affordable learning platform that cares about you</p>
-          <a href="more-platforms/physicswallah"><button class="button1">Go</button></a></p>
-        </div>
-        <div class="block">
-          <p><img class="thumbnail-img" src="images/unacademy.jpg" alt="">
+          <p><img class="thumbnail-img" src="images/Unacademy-banner.jpg" alt="">
           <p>India's Largest Learning Platform. Coaching by Top Educators.</p>
           <a href="more-platforms/unacademy"><button class="button1">Go</button></a></p>
         </div>        
       </div>
+
+      <div class="flex-container2">
+        <div class="block">
+          <p><img class="thumbnail-img" style="max-width: 100%;" src="images/apnikaksha2.jpg" alt="">
+          <p>Premium Education for All for free or at the most affordable price</p>
+          <a href="more-platforms/apnikaksha"><button class="button1">Go</button></a></p>
+        </div>
+        <div class="block">
+          <p><img class="thumbnail-img" src="images/pwallah.jpg" alt="">
+          <p>The most affordable learning platform that cares about you</p>
+          <a href="more-platforms/physicswallah"><button class="button1">Go</button></a></p>
+        </div>        
+      </div>
+
     </div>
 
     <!-- <div style="padding: 2%;">
