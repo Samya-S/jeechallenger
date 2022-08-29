@@ -21,11 +21,15 @@
       document.getElementById("navBtn_PW").className += " active";
     </script>
 
+
+    <img class="Uimg" style="width: 100%;" src="../images/physicswallah.png" alt="" srcset="">
+
+
     <div style="padding: 2%;">
-      <h1>Physics Wallah</h1>
+      <!-- <h1>Physics Wallah</h1> -->
       <div class="flex-container">
         <div class="block"><h2>YouTube Channel</h2><img class="thumbnail-img" src="../images/pwyt.jpg" alt=""><p><a href="https://www.youtube.com/c/PhysicsWallah" target="_blank"><button class="button1">Click Here</button></a></p></div>
-        <div class="block"><h2>Official Website</h2><img class="thumbnail-img" src="../images/pwallah2.jpg" alt=""><p><a href="https://www.pw.live/" target="_blank"><button class="button1">Click Here</button></a></p></div>
+        <div class="block"><h2>Official Website</h2><img class="thumbnail-img" src="../images/pwweb.jpg" alt=""><p><a href="https://www.pw.live/" target="_blank"><button class="button1">Click Here</button></a></p></div>
         <div class="block"><h2>Mobile App</h2><img class="thumbnail-img" src="../images/pwapp.jpg" alt=""><p><a href="https://play.google.com/store/apps/details?id=xyz.penpencil.physicswala" target="_blank"><button class="button1">Click Here</button></a></p></div>
       </div>
     </div>
