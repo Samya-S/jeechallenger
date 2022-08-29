@@ -26,15 +26,17 @@
 
 
 
+    <img class="Uimg" style="width: 100%;" src="../images/Unacademy_header.png" alt="" srcset="">
+
 
     <div style="padding: 2%;">
-        <div class="">
-            <img class="thumbnail-img Uimg" src="../images/unacademy.jpg" style="float: left;" alt="" srcset="">
-          <div style="padding: 2rem;">
+        <!-- <div class=""> -->
+            <!-- <img class="thumbnail-img Uimg" src="../images/unacademy.jpg" style="float: left;" alt="" srcset=""> -->
+          <div class="flex-container2" style="padding: 2rem;">
             <div class="block"><h2>Unacademy App</h2><a href="https://play.google.com/store/apps/details?id=com.unacademyapp" target="_blank"><button class="button1">Click here</button></a></div>
             <div class="block"><h2>Official Website</h2><a href="https://unacademy.com/" target="_blank"><button class="button1">Click here</button></a></div>
           </div>
-        </div>
+        <!-- </div> -->
     </div>
 
     <div style="padding: 2%; background-color: rgba(212, 212, 212, 0.26);">
