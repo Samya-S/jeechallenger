@@ -55,9 +55,9 @@
                   <button class="dropbtn" id="navBtn_MorePlatforms">More platforms<i class="rotate fa fa-caret-down"></i></button>
                   <ul>
                     <div class="dropdown-content">
+                      <li><a id="navBtn_Unacademy" href="https://jeechallenger.herokuapp.com/more-platforms/unacademy">Unacademy</a></li>
                       <li><a id="navBtn_ApniKaksha" href="https://jeechallenger.herokuapp.com/more-platforms/apnikaksha">Apni Kaksha</a></li>
                       <li><a id="navBtn_PW" href="https://jeechallenger.herokuapp.com/more-platforms/physicswallah">Physics Wallah</a></li>
-                      <li><a id="navBtn_Unacademy" href="https://jeechallenger.herokuapp.com/more-platforms/unacademy">Unacademy</a></li>
                     </div>
                   </ul>
                 </div>
