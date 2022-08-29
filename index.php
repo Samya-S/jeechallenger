@@ -128,7 +128,7 @@
 
       <div style="padding: 2%;">
         <div class="block">
-          <p><img class="thumbnail-img" src="images/Unacademy-banner.jpg" alt="">
+          <p><img class="thumbnail-img" style="max-width: 100%;" src="images/Unacademy-banner.jpg" alt="">
           <p>India's Largest Learning Platform. Coaching by Top Educators.</p>
           <a href="more-platforms/unacademy"><button class="button1">Go</button></a></p>
         </div>        
@@ -136,7 +136,7 @@
 
       <div class="flex-container2">
         <div class="block">
-          <p><img class="thumbnail-img" style="max-width: 100%;" src="images/apnikaksha2.jpg" alt="">
+          <p><img class="thumbnail-img" src="images/apnikaksha2.jpg" alt="">
           <p>Premium Education for All for free or at the most affordable price</p>
           <a href="more-platforms/apnikaksha"><button class="button1">Go</button></a></p>
         </div>
