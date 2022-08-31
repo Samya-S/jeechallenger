@@ -90,10 +90,10 @@
 
 
         // display alert once in a session
-        if(sessionStorage.getItem('showAlert') != "false"){
-          alertM.style.display = "block";  
-          sessionStorage.setItem('showAlert', "false");
-        }
+        // if(sessionStorage.getItem('showAlert') != "false"){          //  hidden
+        //   alertM.style.display = "block";  
+        //   sessionStorage.setItem('showAlert', "false");
+        // }
     </script>
 
     <style>
