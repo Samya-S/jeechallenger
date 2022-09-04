@@ -23,8 +23,8 @@
     </script>
 
 
-    <img class="headingimg" src="../images/maths2..jpg" alt="" style="width: 100%; box-sizing: border-box;">
-    <div class="centered2" style="position: absolute; color: black;"><p><h1 style="color: white;">Mathematics</h1></p></div>
+    <img class="headingimg" src="../images/maths-banner.png" alt="" style="width: 100%; box-sizing: border-box;">
+
 
     <div style="padding: 2%; background-color: rgba(212, 212, 212, 0.26);">
       <h1>Arihant</h1>
