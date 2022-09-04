@@ -23,8 +23,8 @@
     </script>
 
 
-    <img class="headingimg" src="../images/pyqs2..jpg" alt="" style="width: 100%; box-sizing: border-box; filter: brightness(80%);">
-    <div class="centered2" style="position: absolute; color: black;"><p><h1 style="color: white;">Chapter wise solved PYQs*</h1></p></div>
+    <img class="headingimg" src="../images/PYQs-banner.png" alt="" style="width: 100%; box-sizing: border-box; filter: brightness(80%);">
+
 
     <div style="padding: 2%;">
       <h1>Arihant</h1>(41 years')
