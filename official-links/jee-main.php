@@ -34,8 +34,28 @@
 
 
     <div style="padding: 2%;">
-      <h1>JEE Main Question Papers</h1>
+      <h1>JEE Main Question Papers</h1>      
+      <!-- <div class="block2">
+        <p style="font-size: 1.5em;">
+          <img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
+          JEE Main - June 2022 Official Papers are available at our official telegram channel. <br> Get it now.
+        </p>
+        <a href="https://t.me/c/1655397860/254" target="_blank" onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><button class="button2_tele" style="font-size: 20px;">Click here</button></a>
+      </div> -->
+      <div class="flex-container">
+        <div class="block"><h2>Question Papers 2022</h2><h3><p>With solutions</p></h3><a><button class="button1" onclick="toggle_show_hide_Function_2022()">Click Here</button></a></div>
+        <div class="block"><h2>Question Papers 2021</h2><h3><p>Booklet by ALLEN</p></h3><a href="https://t.me/c/1655397860/238" target="_blank" onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><button class="button1">Download</button></a></div>
+        <div class="block"><h2>Question Papers 2020</h2><h3><p>With solutions</p></h3><a><button class="button1" onclick="toggle_show_hide_Function_2020()">Click Here</button></a></div>
+      </div>
 
+    </div>
+    
+    
+    
+
+
+    
+    <div id="toggle-show-hide-id-2022" style="display: none; padding: 2%; background-color: rgba(212, 212, 212, 0.1);">
       <style>
         table, th, td {
           border: 1px solid black;
@@ -47,10 +67,11 @@
         }
       </style>
 
+      
+      <h1>JEE Main 2022</h1>
 
       <section class="content-section mt-4">
-        <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-        JEE Main 2022 Session-2 Paper with Answer Key (July Attempt)</h2>
+        <h2>JEE Main 2022 Session-2 Paper with Answer Key (July Attempt)</h2>
         <div class="table-outer">
             <table cellspacing="0" cellpadding="0" align="center">
             <tbody>               
@@ -196,8 +217,7 @@
 
 
       <section class="content-section">
-	      <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-        JEE Main 2022 Session-2 Paper with Solutions (July Attempt)</h2>
+	      <h2>JEE Main 2022 Session-2 Paper with Solutions (July Attempt)</h2>
 	      <div class="table-outer">
 	          <table cellspacing="0" cellpadding="0" align="center">
             <tbody>               
@@ -343,8 +363,7 @@
 
 
       <section class="content-section">
-        <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-        JEE Main 2022 Session-1 Paper with Answer Key (June Attempt)</h2>
+        <h2>JEE Main 2022 Session-1 Paper with Answer Key (June Attempt)</h2>
         <div class="table-outer">
             <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
@@ -448,8 +467,7 @@
 
 
       <section class="content-section">
-        <h2><img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-        JEE Main 2022 Session-1 Paper with Solutions (June Attempt)</h2>
+        <h2>JEE Main 2022 Session-1 Paper with Solutions (June Attempt)</h2>
         <div class="table-outer">
             <table cellspacing="0" cellpadding="0" align="center">
               <tbody>               
@@ -543,38 +561,11 @@
         </div>
       </section>
 
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-      <!-- <div class="block2">
-        <p style="font-size: 1.5em;">
-          <img src="../images/flashingNew.gif" alt="" style="height: 50px;"> &nbsp;
-          JEE Main - June 2022 Official Papers are available at our official telegram channel. <br> Get it now.
-        </p>
-        <a href="https://t.me/c/1655397860/254" target="_blank" onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><button class="button2_tele" style="font-size: 20px;">Click here</button></a>
-      </div> -->
-      <br><br><br>
-      <div class="flex-container">
-        <div class="block"><h2>Question Papers 2021</h2><h3><p>Booklet by ALLEN</p></h3><a href="https://t.me/c/1655397860/238" target="_blank" onclick="return confirm('This link will only work if you are a subscriber of our official telegram channel. If so, please proceed. \n\nOr else, please join our telegram channel before proceeding.');"><button class="button1">Download</button></a></div>
-        <div class="block"><h2>Question Papers 2020</h2><h3><p>With solutions</p></h3><a><button class="button1" onclick="toggle_show_hide_Function()">Click Here</button></a></div>
-      </div>
     </div>
-    
+
     <script>
-      function toggle_show_hide_Function() {
-        var x = document.getElementById("toggle-show-hide-id");
+      function toggle_show_hide_Function_2022() {
+        var x = document.getElementById("toggle-show-hide-id-2022");
         if (x.style.display === "none") {
           x.style.display = "block";
         } else {
@@ -583,7 +574,10 @@
       }
     </script>
 
-    <div id="toggle-show-hide-id" style="display: none; padding: 2%; background-color: rgba(212, 212, 212, 0.1);">
+
+
+
+    <div id="toggle-show-hide-id-2020" style="display: none; padding: 2%; background-color: rgba(212, 212, 212, 0.1);">
       <h1>JEE Main 2020</h1>
       <h2>Question Papers with Solutions</h2>
       <div class="flex-container" style="padding: 2%; background-color: rgba(212, 212, 212, 0.15);">
@@ -672,6 +666,17 @@
           <p><h3 style="opacity: 1;">JEE-Main-January-September-2020-TEST-PAPERS-EN.pdf</h3><a href="https://drive.google.com/file/d/1RfPImPktG3FtpSFt0sQIGGAyYVR6uyOl/view?usp=sharing" target="_blank"><button class="button2">Go</button></a></p>
       </div>
     </div>
+
+    <script>
+      function toggle_show_hide_Function_2020() {
+        var x = document.getElementById("toggle-show-hide-id-2020");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+      }
+    </script>
 
 
 
