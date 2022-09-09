@@ -127,7 +127,7 @@
 
 
 
-    <?php include("common/modal.html"); ?>
+    <?php include("./common/modal.html"); ?>
 
 
 
@@ -278,13 +278,13 @@
 
 
 
-  <?php include("common/telegram-float.php"); ?>
+  <?php include("./common/telegram-float.php"); ?>
 
 
-  <?php include("common/contact-us-button.php"); ?>
+  <?php include("./common/contact-us-button.php"); ?>
 
 
-  <?php include("common/footer.php"); ?>
+  <?php include("./common/footer.php"); ?>
 
 
   
