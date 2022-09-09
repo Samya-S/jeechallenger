@@ -15,7 +15,7 @@
             <button class="NavOpenButton" onclick="toggleNavOpen()"><i class="fa fa-bars NavOpenButton" aria-hidden="true"></i></button>
           </div>
           <p>
-            <a href="https://jeechallenger.herokuapp.com/">
+            <a href="../home">
               <b>JEE Challenger</b>
             </a>
           </p>
@@ -24,17 +24,17 @@
               <button class="NavCloseButton" onclick="toggleNavClose()">&times;</button>
             </div>
             <ul class="ul-class">
-              <li><a href="https://jeechallenger.herokuapp.com/" id="navBtn_Home"><b>Home</b></a></li>
+              <li><a href="../home" id="navBtn_Home"><b>Home</b></a></li>
               <li>
                 <div class="dropdown">
                   <button class="dropbtn" id="navBtn_Materials">Materials<i class="rotate fa fa-caret-down"></i></button>
                   <ul>
                     <div class="dropdown-content">
-                      <li><a id="navBtn_Phy" href="https://jeechallenger.herokuapp.com/materials/physics">Physics PDFs</a></li>
-                      <li><a id="navBtn_Chem" href="https://jeechallenger.herokuapp.com/materials/chemistry">Chemistry PDFs</a></li>
-                      <li><a id="navBtn_Maths" href="https://jeechallenger.herokuapp.com/materials/mathematics">Mathematics PDFs</a></li>
-                      <li><a id="navBtn_PYQs" href="https://jeechallenger.herokuapp.com/materials/chapterwise-solved-pyqs">Chapterwise solved PYQs</a></li>
-                      <li><a id="navBtn_More" href="https://jeechallenger.herokuapp.com/materials/more-study-materials">More study materials</a></li>
+                      <li><a id="navBtn_Phy" href="../materials/physics">Physics PDFs</a></li>
+                      <li><a id="navBtn_Chem" href="../materials/chemistry">Chemistry PDFs</a></li>
+                      <li><a id="navBtn_Maths" href="../materials/mathematics">Mathematics PDFs</a></li>
+                      <li><a id="navBtn_PYQs" href="../materials/chapterwise-solved-pyqs">Chapterwise solved PYQs</a></li>
+                      <li><a id="navBtn_More" href="../materials/more-study-materials">More study materials</a></li>
                     </div>
                   </ul>
                 </div>
@@ -44,8 +44,8 @@
                   <button class="dropbtn" id="navBtn_OfficialLinks">Officials links<i class="rotate fa fa-caret-down"></i></button>
                   <ul>
                     <div class="dropdown-content">
-                      <li><a id="navBtn_Main" href="https://jeechallenger.herokuapp.com/official-links/jee-main">JEE Main</a></li>
-                      <li><a id="navBtn_Adv" href="https://jeechallenger.herokuapp.com/official-links/jee-advanced">JEE Advanced</a></li>                
+                      <li><a id="navBtn_Main" href="../official-links/jee-main">JEE Main</a></li>
+                      <li><a id="navBtn_Adv" href="../official-links/jee-advanced">JEE Advanced</a></li>                
                     </div>
                   </ul>
                 </div>
@@ -55,9 +55,9 @@
                   <button class="dropbtn" id="navBtn_MorePlatforms">More platforms<i class="rotate fa fa-caret-down"></i></button>
                   <ul>
                     <div class="dropdown-content">
-                      <li><a id="navBtn_Unacademy" href="https://jeechallenger.herokuapp.com/more-platforms/unacademy">Unacademy</a></li>
-                      <li><a id="navBtn_ApniKaksha" href="https://jeechallenger.herokuapp.com/more-platforms/apnikaksha">Apni Kaksha</a></li>
-                      <li><a id="navBtn_PW" href="https://jeechallenger.herokuapp.com/more-platforms/physicswallah">Physics Wallah</a></li>
+                      <li><a id="navBtn_Unacademy" href="../more-platforms/unacademy">Unacademy</a></li>
+                      <li><a id="navBtn_ApniKaksha" href="../more-platforms/apnikaksha">Apni Kaksha</a></li>
+                      <li><a id="navBtn_PW" href="../more-platforms/physicswallah">Physics Wallah</a></li>
                     </div>
                   </ul>
                 </div>
