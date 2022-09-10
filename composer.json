@@ -1,0 +1,13 @@
+{
+    "name": "samya-s/jee-challenger",
+    "description": "A website to guide JEE aspirants",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Samya Saha"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
