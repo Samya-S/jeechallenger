@@ -40,6 +40,13 @@ window.onscroll = function() {
 
 
 
+function tgContentLoadingError() {
+  // document.getElementById("tgContentLoadingErrorDiv").style.color="red";
+  document.getElementById("tgContentLoadingErrorDiv").style.fontFamily="monospace";
+  // document.getElementById("tgContentLoadingErrorDiv").style.isolation="isolate";
+  document.getElementById('tgContentLoadingErrorDiv').innerText = "\nUnable to load contents from telegram!\nhttps://telegram.org is being blocked!!\nPlease reload!";
+}
+
 
 // get element to display once by id                                      // not working
 
