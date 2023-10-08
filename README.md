@@ -4,4 +4,4 @@
 
 <h1 align="center" style="font-family: 'Jost', sans-serif;">JEE Challenger</h1>
  
-A project - cum - small initiative to help the JEE aspirants with proper study materials to smoother their journey
+A project - cum - small initiative to help the JEE aspirants with proper study materials to smoother their journey.
