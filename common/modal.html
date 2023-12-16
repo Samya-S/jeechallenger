@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>Modal</title> -->
+</head>
+<body>
+    
+
+
+    <!-- Trigger/Open The Modal -->
+    <!-- <button id="myBtn">Open Modal</button> -->
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content gradient-animation" id="slide">
+          <span class="close">&times;</span>
+          <img src="images/flashingNew.gif" alt="" style="height: 50px; float: left;">
+          <p style="font-size: 1.5em; font-family: 'Jost', sans-serif;">JEE Main 2022 - July Shift Official Papers (with answer keys & solutions) are now available here. <br> Check it out now.</p>
+          <a href="official-links/jee-main"><button class="button2_modal" style="font-size: 20px;">Click here</button></a>
+          <p style="padding-bottom: 0px;"></p>
+        </div>
+    
+    </div>
+
+
+  
+    <script>
+      // Get the modal
+      var modal = document.getElementById("myModal");
+      
+      // Get the button that opens the modal
+      // var btn = document.getElementById("myBtn");
+      
+      // Get the <span> element that closes the modal
+      var span = document.getElementsByClassName("close")[0];
+      
+      // When the user clicks on the button, open the modal
+      // btn.onclick = function() {
+      //   modal.style.display = "block";
+      // }
+      
+      // When the user clicks on <span> (x), close the modal
+      span.onclick = function() {
+        modal.style.display = "none";
+      }
+      
+      // When the user clicks anywhere outside of the modal, close it
+      window.onclick = function(event) {
+        if (event.target == modal) {
+          modal.style.display = "none";
+        }
+      }
+    
+    
+      
+    
+      // display modal once in a session
+      // if(sessionStorage.getItem('showAlert') != "false"){
+      //   modal.style.display = "block";  
+      //   sessionStorage.setItem('showAlert', "false");
+      // }
+    
+      // modal hidden
+      modal.style.display = "none";
+    
+    </script>
+  
+  
+  
+    <style>
+        /* The Modal (background) */
+        .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 9; /* Sit on top */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        /* Modal Content/Box */
+        .modal-content {
+          background-color: #fefefe;
+          margin: 10% auto; /* 10% from the top and centered */
+          padding: 25px;
+          border: 1px solid #888;
+          width: 80%; /* Could be more or less, depending on screen size */
+          max-width: 1000px;
+        
+          border-radius: 2em;
+        
+          left: 50%;
+          transform: translate(-50%, 0);
+          position: absolute;
+          -webkit-animation: slide 0.8s forwards;
+          animation: slide 0.8s forwards;
+        }
+
+        @-webkit-keyframes slide {
+            0% { top: -150px; opacity: 0; }
+            100% { top: 0; opacity: 1;}
+        }
+
+        @keyframes slide {
+            0% { top: -150px; opacity: 0; }
+            100% { top: 0; opacity: 1;}
+        }
+
+        .button2_modal{
+            background-color: transparent;
+            font-size: 100%;
+            padding-left: 4%;
+            padding-right: 4%;
+            padding-top: 1%;
+            padding-bottom: 1%;
+            border: 0.5px solid #ffffff;
+            color: #ffffff;
+            border-radius: 50em;
+            isolation: isolate;
+        }
+
+        .button2_modal a{
+            text-decoration: none;
+            color: #2e87ca;;
+        }
+
+        .button2_modal:hover{
+            background-color: #000000; 
+            color: rgb(255, 255, 255); 
+            border: 0.5px solid #000000;
+        }
+
+        .button2_modal a:hover{
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+        }
+
+        /* The Close Button of Modal*/
+        .close {
+          color: rgb(0, 29, 156);
+          float: right;
+          font-size: 28px;
+          font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+          color: rgb(255, 0, 0);
+          text-decoration: none;
+          cursor: pointer;
+        }
+
+    </style>
+
+
+
+
+
+
+</body>
+</html>
