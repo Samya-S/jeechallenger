@@ -17,7 +17,7 @@
         <a href="https://bit.ly/SamyaSahaYt" target="_blank" class="fa fa-youtube"></a>
         <a href="https://www.instagram.com/SamyaSaha08" target="_blank" class="fa fa-instagram"></a><br> -->
         Copyright &copy 2020-22 <b><i>Samya Saha</i></b><br>- All Rights Reserved.<br><br>
-        <h6>Source code available on Github: <a href="https://github.com/Samya-S/jee-challenger---html" target="_blank" style="text-decoration: none; isolation: unset;">Click here</a></h6>
+        <h6>Source code available on Github: <a href="https://github.com/Samya-S/jeechallenger" target="_blank" style="text-decoration: none; isolation: unset;">Click here</a></h6>
         <br>
         <div>
           <h3 style="font-weight: normal; font-family: monospace;"><p id="date&time"></p></h3>
