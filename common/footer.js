@@ -17,7 +17,7 @@ document.write( '        <a href=\"https://www.twitter.com/SamyaSaha08\" target=
 document.write( '        <a href=\"https://bit.ly/SamyaSahaYt\" target=\"_blank\" class=\"fa fa-youtube\"></a>\n' );
 document.write( '        <a href=\"https://www.instagram.com/SamyaSaha08\" target=\"_blank\" class=\"fa fa-instagram\"></a><br> -->\n' );
 document.write( '        Copyright © 2020-22 <b><i>Samya Saha</i></b><br>- All Rights Reserved.<br><br>\n' );
-document.write( '        <h6>Source code available on Github: <a href=\"https://github.com/Samya-S/jee-challenger---html\" target=\"_blank\" style=\"text-decoration: none; isolation: unset;\">Click here</a></h6>\n' );
+document.write( '        <h6>Source code available on Github: <a href=\"https://github.com/Samya-S/jeechallenger\" target=\"_blank\" style=\"text-decoration: none; isolation: unset;\">Click here</a></h6>\n' );
 document.write( '        <br>\n' );
 document.write( '        <div>\n' );
 document.write( '          <h3 style=\"font-weight: normal; font-family: monospace;\"><p id=\"date&time\"></p></h3>\n' );
