@@ -1,3 +1,3 @@
 # jee-challenger v2
 
-This project includes php and has a completely frontend version (only html, css and js): https://github.com/Samya-S/jee-challenger---html
+This version is built with `php` and has completely frontend versions (only `HTML`, `CSS` and `JavaScript`) - [v1](https://github.com/Samya-S/jeechallenger/tree/v1) and [current version](https://github.com/Samya-S/jeechallenger/tree/main)
