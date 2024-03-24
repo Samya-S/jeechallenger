@@ -1,3 +1,3 @@
 # jeechallenger v1
 
-This project has been moved to https://github.com/Samya-S/jee-challenger---html
+This is v1 of this project built with `HTML`, `CSS` and `JavaScript` only
