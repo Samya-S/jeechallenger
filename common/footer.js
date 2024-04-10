@@ -16,7 +16,10 @@ document.write( '        <!-- <a href=\"https://www.facebook.com/SamyaSaha08\" t
 document.write( '        <a href=\"https://www.twitter.com/SamyaSaha08\" target=\"_blank\" class=\"fa fa-twitter\"></a>\n' );
 document.write( '        <a href=\"https://bit.ly/SamyaSahaYt\" target=\"_blank\" class=\"fa fa-youtube\"></a>\n' );
 document.write( '        <a href=\"https://www.instagram.com/SamyaSaha08\" target=\"_blank\" class=\"fa fa-instagram\"></a><br> -->\n' );
-document.write( '        Copyright © 2020-22 <b><i>Samya Saha</i></b><br>- All Rights Reserved.<br><br>\n' );
+document.write( '        Copyright © 2020-<span id="currentYr"></span> <b><i>Samya Saha</i></b><br>- All Rights Reserved.<br><br>\n' );
+document.write( '        <script>\n' );
+document.write( '           document.getElementById("currentYr").innerHTML = new Date().getFullYear()%100;\n' );
+document.write( '        </script>\n' );
 document.write( '        <h6>Source code available on Github: <a href=\"https://github.com/Samya-S/jeechallenger\" target=\"_blank\" style=\"text-decoration: none; isolation: unset;\">Click here</a></h6>\n' );
 document.write( '        <br>\n' );
 document.write( '        <div>\n' );
