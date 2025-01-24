@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repository is being archived. For latest updates refer to [Samya-S/jeechallenger-2.0](https://github.com/Samya-S/jeechallenger-2.0)
+
 <p align="center" width="100%">
     <img width="18%" src="./images/jcicon.jpg"> 
 </p>
@@ -9,11 +12,14 @@
 
 ## All versions
 
+### jeechallenger v2.0
+Upgraded the vanilla JavaScript project to `Next.js` application. This is a major update and managed in the repository [Samya-S/jeechallenger-2.0](https://github.com/Samya-S/jeechallenger-2.0)
+
 ### jeechallenger v1.2
-This is the current version and it is made using `HTML`, `CSS` and vanilla `JavaScript`. The code is available at the `main branch` of this repository (with all updates) as well as at [Samya-S/jeechallenger-v1.2](https://github.com/Samya-S/jeechallenger-v1.2) (archived and not updated).
+This is version 1.2, made using `HTML`, `CSS` and vanilla `JavaScript`. The code is available at the `main branch` of this repository (with all updates) and at [Samya-S/jeechallenger-v1.2](https://github.com/Samya-S/jeechallenger-v1.2) (archived and not updated).
 
 ### jeechallenger v1.1
-This version includes `PHP`. The code is available at `v1.1 branch` of this repository as well as at [Samya-S/jeechallenger-v1.1](https://github.com/Samya-S/jeechallenger-v1.1) (archived and not updated).
+This version includes `PHP`. The code is available at `v1.1 branch` of this repository and at [Samya-S/jeechallenger-v1.1](https://github.com/Samya-S/jeechallenger-v1.1) (archived and not updated).
 
 ### jeechallenger v1.0
-This version made using `HTML`, `CSS` and vanilla `JavaScript`. The code is available at `v1.0 branch` of this repository.
+This version is made using `HTML`, `CSS` and vanilla `JavaScript`. The code is available at `v1.0 branch` of this repository.
